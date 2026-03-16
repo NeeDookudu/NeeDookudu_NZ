@@ -38,7 +38,46 @@
           }
         }
       ]
+    },
+    {
+      "file": "20260316T153815Z.json",
+      "fetched_at": "2026-03-16T15:38:15.627714+00:00",
+      "movie_count": 2,
+      "movies": [
+        {
+          "title": "Dhurandhar: The Revenge",
+          "overall_stats": {
+            "sessions": 124,
+            "total_seats": 18367,
+            "sold_seats": 4539,
+            "available_seats": 13141,
+            "occupancy_pct": 24.7,
+            "revenue": 124833.5,
+            "dates_count": 7,
+            "hoyts_sessions": 124,
+            "ec_sessions": 0,
+            "hoyts_revenue": 124833.5,
+            "ec_revenue": 0
+          }
+        },
+        {
+          "title": "Project Hail Mary",
+          "overall_stats": {
+            "sessions": 249,
+            "total_seats": 44402,
+            "sold_seats": 751,
+            "available_seats": 41836,
+            "occupancy_pct": 1.7,
+            "revenue": 19820.0,
+            "dates_count": 7,
+            "hoyts_sessions": 249,
+            "ec_sessions": 0,
+            "hoyts_revenue": 19820.0,
+            "ec_revenue": 0
+          }
+        }
+      ]
     }
   ],
-  "updated_at": "2026-03-16T15:19:32.931564+00:00"
+  "updated_at": "2026-03-16T15:38:15.627714+00:00"
 }
