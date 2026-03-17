@@ -27,7 +27,8 @@ jobs:
           pip install aiohttp requests
 
       - name: Run nz.py
-        run: python nz.py
+        # Pass the secret dynamically using GitHub Actions syntax
+        run: python nz.py --key "${{ secrets.NZ_SCRIPT_KEY }}"
 
       - name: Commit and Push Data
         run: |
