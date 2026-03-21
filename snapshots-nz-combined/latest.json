@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-21T11:48:05.398148+00:00",
+  "fetched_at": "2026-03-21T13:55:19.945646+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -18,38 +18,38 @@
         ]
       },
       "overall_stats": {
-        "sessions": 264,
-        "total_seats": 40500,
-        "sold_seats": 9528,
-        "available_seats": 29853,
-        "occupancy_pct": 23.5,
-        "revenue": 245827.5,
+        "sessions": 262,
+        "total_seats": 40194,
+        "sold_seats": 9341,
+        "available_seats": 29738,
+        "occupancy_pct": 23.2,
+        "revenue": 239236.0,
         "dates_count": 5,
-        "hoyts_sessions": 158,
+        "hoyts_sessions": 156,
         "ec_sessions": 106,
-        "hoyts_revenue": 163406.5,
-        "ec_revenue": 82421.0
+        "hoyts_revenue": 156266.5,
+        "ec_revenue": 82969.5
       },
       "dates": [
         {
           "date": "2026-03-21",
           "overall_stats": {
-            "sessions": 37,
-            "total_seats": 5108,
-            "sold_seats": 3460,
-            "available_seats": 1463,
-            "occupancy_pct": 67.7,
-            "revenue": 85530.5
+            "sessions": 35,
+            "total_seats": 4802,
+            "sold_seats": 3199,
+            "available_seats": 1422,
+            "occupancy_pct": 66.6,
+            "revenue": 77331.5
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 37,
-                "total_seats": 5108,
-                "sold_seats": 3460,
-                "available_seats": 1463,
-                "occupancy_pct": 67.7,
-                "revenue": 85530.5
+                "sessions": 35,
+                "total_seats": 4802,
+                "sold_seats": 3199,
+                "available_seats": 1422,
+                "occupancy_pct": 66.6,
+                "revenue": 77331.5
               },
               "locations": {
                 "1001": {
@@ -636,45 +636,6 @@
                       "screen": "METRO 4"
                     }
                   ]
-                },
-                "ORMCIN": {
-                  "cinema_name": "ORMCIN",
-                  "overall_stats": {
-                    "sessions": 2,
-                    "total_seats": 306,
-                    "sold_seats": 261,
-                    "available_seats": 41,
-                    "occupancy_pct": 85.3,
-                    "revenue": 8199.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 78413,
-                      "start_time": "2026-03-21T21:00:00",
-                      "stats": {
-                        "total_seats": 84,
-                        "sold_seats": 63,
-                        "unavailable": 2,
-                        "available_seats": 19,
-                        "occupancy_pct": 76.8,
-                        "revenue": 1764.0
-                      },
-                      "screen": "Cinema 04"
-                    },
-                    {
-                      "session_id": 78687,
-                      "start_time": "2026-03-21T21:15:00",
-                      "stats": {
-                        "total_seats": 222,
-                        "sold_seats": 198,
-                        "unavailable": 2,
-                        "available_seats": 22,
-                        "occupancy_pct": 90.0,
-                        "revenue": 6435.0
-                      },
-                      "screen": "Xtremescreen 01"
-                    }
-                  ]
                 }
               }
             },
@@ -696,20 +657,20 @@
           "overall_stats": {
             "sessions": 65,
             "total_seats": 9529,
-            "sold_seats": 3154,
-            "available_seats": 6113,
-            "occupancy_pct": 33.1,
-            "revenue": 82402.0
+            "sold_seats": 3207,
+            "available_seats": 6060,
+            "occupancy_pct": 33.7,
+            "revenue": 83641.5
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
                 "sessions": 38,
                 "total_seats": 4941,
-                "sold_seats": 1666,
-                "available_seats": 3086,
-                "occupancy_pct": 33.7,
-                "revenue": 43682.5
+                "sold_seats": 1699,
+                "available_seats": 3053,
+                "occupancy_pct": 34.4,
+                "revenue": 44449.5
               },
               "locations": {
                 "1001": {
@@ -717,10 +678,10 @@
                   "overall_stats": {
                     "sessions": 4,
                     "total_seats": 317,
-                    "sold_seats": 165,
-                    "available_seats": 144,
-                    "occupancy_pct": 52.1,
-                    "revenue": 4527.0
+                    "sold_seats": 167,
+                    "available_seats": 142,
+                    "occupancy_pct": 52.7,
+                    "revenue": 4583.0
                   },
                   "sessions": [
                     {
@@ -754,11 +715,11 @@
                       "start_time": "2026-03-22T18:30:00",
                       "stats": {
                         "total_seats": 73,
-                        "sold_seats": 36,
+                        "sold_seats": 38,
                         "unavailable": 2,
-                        "available_seats": 35,
-                        "occupancy_pct": 50.7,
-                        "revenue": 1008.0
+                        "available_seats": 33,
+                        "occupancy_pct": 53.5,
+                        "revenue": 1064.0
                       },
                       "screen": "Cinema 1"
                     },
@@ -782,10 +743,10 @@
                   "overall_stats": {
                     "sessions": 8,
                     "total_seats": 1360,
-                    "sold_seats": 329,
-                    "available_seats": 986,
-                    "occupancy_pct": 24.2,
-                    "revenue": 8109.0
+                    "sold_seats": 337,
+                    "available_seats": 978,
+                    "occupancy_pct": 24.8,
+                    "revenue": 8245.5
                   },
                   "sessions": [
                     {
@@ -793,11 +754,11 @@
                       "start_time": "2026-03-22T10:40:00",
                       "stats": {
                         "total_seats": 203,
-                        "sold_seats": 58,
+                        "sold_seats": 62,
                         "unavailable": 10,
-                        "available_seats": 135,
-                        "occupancy_pct": 30.1,
-                        "revenue": 696.0
+                        "available_seats": 131,
+                        "occupancy_pct": 32.1,
+                        "revenue": 744.0
                       },
                       "screen": "Cinema 4"
                     },
@@ -819,11 +780,11 @@
                       "start_time": "2026-03-22T19:30:00",
                       "stats": {
                         "total_seats": 277,
-                        "sold_seats": 82,
+                        "sold_seats": 85,
                         "unavailable": 9,
-                        "available_seats": 186,
-                        "occupancy_pct": 30.6,
-                        "revenue": 1722.0
+                        "available_seats": 183,
+                        "occupancy_pct": 31.7,
+                        "revenue": 1785.0
                       },
                       "screen": "Cinema 2"
                     },
@@ -871,11 +832,11 @@
                       "start_time": "2026-03-22T21:30:00",
                       "stats": {
                         "total_seats": 421,
-                        "sold_seats": 60,
+                        "sold_seats": 61,
                         "unavailable": 17,
-                        "available_seats": 344,
-                        "occupancy_pct": 14.9,
-                        "revenue": 1530.0
+                        "available_seats": 343,
+                        "occupancy_pct": 15.1,
+                        "revenue": 1555.5
                       },
                       "screen": "XTREMESCREEN"
                     },
@@ -899,10 +860,10 @@
                   "overall_stats": {
                     "sessions": 2,
                     "total_seats": 196,
-                    "sold_seats": 92,
-                    "available_seats": 87,
-                    "occupancy_pct": 46.9,
-                    "revenue": 1886.0
+                    "sold_seats": 95,
+                    "available_seats": 84,
+                    "occupancy_pct": 48.5,
+                    "revenue": 1947.5
                   },
                   "sessions": [
                     {
@@ -910,11 +871,11 @@
                       "start_time": "2026-03-22T10:10:00",
                       "stats": {
                         "total_seats": 47,
-                        "sold_seats": 32,
+                        "sold_seats": 35,
                         "unavailable": 1,
-                        "available_seats": 14,
-                        "occupancy_pct": 69.6,
-                        "revenue": 656.0
+                        "available_seats": 11,
+                        "occupancy_pct": 76.1,
+                        "revenue": 717.5
                       },
                       "screen": "Cinema 1"
                     },
@@ -938,10 +899,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 458,
-                    "sold_seats": 75,
-                    "available_seats": 371,
-                    "occupancy_pct": 16.4,
-                    "revenue": 1575.0
+                    "sold_seats": 79,
+                    "available_seats": 367,
+                    "occupancy_pct": 17.2,
+                    "revenue": 1659.0
                   },
                   "sessions": [
                     {
@@ -949,11 +910,11 @@
                       "start_time": "2026-03-22T20:45:00",
                       "stats": {
                         "total_seats": 458,
-                        "sold_seats": 75,
+                        "sold_seats": 79,
                         "unavailable": 12,
-                        "available_seats": 371,
-                        "occupancy_pct": 16.8,
-                        "revenue": 1575.0
+                        "available_seats": 367,
+                        "occupancy_pct": 17.7,
+                        "revenue": 1659.0
                       },
                       "screen": "Xtremescreen 5"
                     }
@@ -990,10 +951,10 @@
                   "overall_stats": {
                     "sessions": 6,
                     "total_seats": 646,
-                    "sold_seats": 281,
-                    "available_seats": 342,
-                    "occupancy_pct": 43.5,
-                    "revenue": 8503.0
+                    "sold_seats": 289,
+                    "available_seats": 334,
+                    "occupancy_pct": 44.7,
+                    "revenue": 8736.0
                   },
                   "sessions": [
                     {
@@ -1014,11 +975,11 @@
                       "start_time": "2026-03-22T13:30:00",
                       "stats": {
                         "total_seats": 121,
-                        "sold_seats": 74,
+                        "sold_seats": 75,
                         "unavailable": 2,
-                        "available_seats": 45,
-                        "occupancy_pct": 62.2,
-                        "revenue": 2072.0
+                        "available_seats": 44,
+                        "occupancy_pct": 63.0,
+                        "revenue": 2100.0
                       },
                       "screen": "Cinema 3"
                     },
@@ -1027,11 +988,11 @@
                       "start_time": "2026-03-22T18:30:00",
                       "stats": {
                         "total_seats": 121,
-                        "sold_seats": 63,
+                        "sold_seats": 68,
                         "unavailable": 2,
-                        "available_seats": 56,
-                        "occupancy_pct": 52.9,
-                        "revenue": 1764.0
+                        "available_seats": 51,
+                        "occupancy_pct": 57.1,
+                        "revenue": 1904.0
                       },
                       "screen": "Cinema 3"
                     },
@@ -1053,11 +1014,11 @@
                       "start_time": "2026-03-22T21:30:00",
                       "stats": {
                         "total_seats": 239,
-                        "sold_seats": 54,
+                        "sold_seats": 56,
                         "unavailable": 2,
-                        "available_seats": 183,
-                        "occupancy_pct": 22.8,
-                        "revenue": 1755.0
+                        "available_seats": 181,
+                        "occupancy_pct": 23.6,
+                        "revenue": 1820.0
                       },
                       "screen": "Xtremescreen 1"
                     },
@@ -1107,10 +1068,10 @@
                   "overall_stats": {
                     "sessions": 6,
                     "total_seats": 607,
-                    "sold_seats": 174,
-                    "available_seats": 407,
-                    "occupancy_pct": 28.7,
-                    "revenue": 3989.5
+                    "sold_seats": 176,
+                    "available_seats": 405,
+                    "occupancy_pct": 29.0,
+                    "revenue": 4020.5
                   },
                   "sessions": [
                     {
@@ -1144,11 +1105,11 @@
                       "start_time": "2026-03-22T19:10:00",
                       "stats": {
                         "total_seats": 166,
-                        "sold_seats": 25,
+                        "sold_seats": 27,
                         "unavailable": 3,
-                        "available_seats": 138,
-                        "occupancy_pct": 15.3,
-                        "revenue": 387.5
+                        "available_seats": 136,
+                        "occupancy_pct": 16.6,
+                        "revenue": 418.5
                       },
                       "screen": "Cinema 5"
                     },
@@ -1198,10 +1159,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 278,
-                    "sold_seats": 158,
-                    "available_seats": 108,
-                    "occupancy_pct": 56.8,
-                    "revenue": 3950.0
+                    "sold_seats": 162,
+                    "available_seats": 104,
+                    "occupancy_pct": 58.3,
+                    "revenue": 4050.0
                   },
                   "sessions": [
                     {
@@ -1209,11 +1170,11 @@
                       "start_time": "2026-03-22T19:30:00",
                       "stats": {
                         "total_seats": 278,
-                        "sold_seats": 158,
+                        "sold_seats": 162,
                         "unavailable": 12,
-                        "available_seats": 108,
-                        "occupancy_pct": 59.4,
-                        "revenue": 3950.0
+                        "available_seats": 104,
+                        "occupancy_pct": 60.9,
+                        "revenue": 4050.0
                       },
                       "screen": "Xtremescreen 04"
                     }
@@ -1263,10 +1224,10 @@
                   "overall_stats": {
                     "sessions": 6,
                     "total_seats": 555,
-                    "sold_seats": 320,
-                    "available_seats": 208,
-                    "occupancy_pct": 57.7,
-                    "revenue": 9977.0
+                    "sold_seats": 322,
+                    "available_seats": 206,
+                    "occupancy_pct": 58.0,
+                    "revenue": 10042.0
                   },
                   "sessions": [
                     {
@@ -1274,11 +1235,11 @@
                       "start_time": "2026-03-22T11:00:00",
                       "stats": {
                         "total_seats": 71,
-                        "sold_seats": 37,
+                        "sold_seats": 39,
                         "unavailable": 4,
-                        "available_seats": 30,
-                        "occupancy_pct": 55.2,
-                        "revenue": 1202.5
+                        "available_seats": 28,
+                        "occupancy_pct": 58.2,
+                        "revenue": 1267.5
                       },
                       "screen": "Cinema 05"
                     },
@@ -1355,10 +1316,10 @@
               "overall_stats": {
                 "sessions": 27,
                 "total_seats": 4588,
-                "sold_seats": 1488,
-                "available_seats": 3027,
-                "occupancy_pct": 32.4,
-                "revenue": 38719.5
+                "sold_seats": 1508,
+                "available_seats": 3007,
+                "occupancy_pct": 32.9,
+                "revenue": 39192.0
               },
               "locations": {
                 "502": {
@@ -1366,10 +1327,10 @@
                   "overall_stats": {
                     "sessions": 3,
                     "total_seats": 313,
-                    "sold_seats": 44,
-                    "available_seats": 263,
-                    "occupancy_pct": 14.1,
-                    "revenue": 1210.0
+                    "sold_seats": 46,
+                    "available_seats": 261,
+                    "occupancy_pct": 14.7,
+                    "revenue": 1265.0
                   },
                   "sessions": [
                     {
@@ -1393,11 +1354,11 @@
                       "start_time": "2026-03-22T13:50",
                       "stats": {
                         "total_seats": 110,
-                        "available_seats": 96,
-                        "sold_seats": 12,
+                        "available_seats": 94,
+                        "sold_seats": 14,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 10.9,
-                        "revenue": 330.0
+                        "occupancy_pct": 12.7,
+                        "revenue": 385.0
                       },
                       "screen_type": "Std",
                       "screen_name": "7",
@@ -1517,10 +1478,10 @@
                   "overall_stats": {
                     "sessions": 3,
                     "total_seats": 683,
-                    "sold_seats": 167,
-                    "available_seats": 500,
-                    "occupancy_pct": 24.5,
-                    "revenue": 2839.0
+                    "sold_seats": 168,
+                    "available_seats": 499,
+                    "occupancy_pct": 24.6,
+                    "revenue": 2856.0
                   },
                   "sessions": [
                     {
@@ -1528,11 +1489,11 @@
                       "start_time": "2026-03-22T13:30",
                       "stats": {
                         "total_seats": 260,
-                        "available_seats": 174,
-                        "sold_seats": 80,
+                        "available_seats": 173,
+                        "sold_seats": 81,
                         "wheelchair_seats": 6,
-                        "occupancy_pct": 30.8,
-                        "revenue": 1360.0
+                        "occupancy_pct": 31.2,
+                        "revenue": 1377.0
                       },
                       "screen_type": "Std",
                       "screen_name": "5",
@@ -1578,10 +1539,10 @@
                   "overall_stats": {
                     "sessions": 2,
                     "total_seats": 424,
-                    "sold_seats": 169,
-                    "available_seats": 251,
-                    "occupancy_pct": 39.9,
-                    "revenue": 4478.5
+                    "sold_seats": 176,
+                    "available_seats": 244,
+                    "occupancy_pct": 41.5,
+                    "revenue": 4664.0
                   },
                   "sessions": [
                     {
@@ -1589,11 +1550,11 @@
                       "start_time": "2026-03-22T13:45",
                       "stats": {
                         "total_seats": 212,
-                        "available_seats": 109,
-                        "sold_seats": 101,
+                        "available_seats": 107,
+                        "sold_seats": 103,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 47.6,
-                        "revenue": 2676.5
+                        "occupancy_pct": 48.6,
+                        "revenue": 2729.5
                       },
                       "screen_type": "Std",
                       "screen_name": "7",
@@ -1605,11 +1566,11 @@
                       "start_time": "2026-03-22T18:20",
                       "stats": {
                         "total_seats": 212,
-                        "available_seats": 142,
-                        "sold_seats": 68,
+                        "available_seats": 137,
+                        "sold_seats": 73,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 32.1,
-                        "revenue": 1802.0
+                        "occupancy_pct": 34.4,
+                        "revenue": 1934.5
                       },
                       "screen_type": "Std",
                       "screen_name": "7",
@@ -1623,10 +1584,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 186,
-                    "sold_seats": 57,
-                    "available_seats": 127,
-                    "occupancy_pct": 30.6,
-                    "revenue": 1425.0
+                    "sold_seats": 62,
+                    "available_seats": 122,
+                    "occupancy_pct": 33.3,
+                    "revenue": 1550.0
                   },
                   "sessions": [
                     {
@@ -1634,11 +1595,11 @@
                       "start_time": "2026-03-22T18:00",
                       "stats": {
                         "total_seats": 186,
-                        "available_seats": 127,
-                        "sold_seats": 57,
+                        "available_seats": 122,
+                        "sold_seats": 62,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 30.6,
-                        "revenue": 1425.0
+                        "occupancy_pct": 33.3,
+                        "revenue": 1550.0
                       },
                       "screen_type": "Std",
                       "screen_name": "4",
@@ -1819,10 +1780,10 @@
                   "overall_stats": {
                     "sessions": 2,
                     "total_seats": 302,
-                    "sold_seats": 130,
-                    "available_seats": 168,
-                    "occupancy_pct": 43.0,
-                    "revenue": 2340.0
+                    "sold_seats": 135,
+                    "available_seats": 163,
+                    "occupancy_pct": 44.7,
+                    "revenue": 2430.0
                   },
                   "sessions": [
                     {
@@ -1830,11 +1791,11 @@
                       "start_time": "2026-03-22T12:30",
                       "stats": {
                         "total_seats": 151,
-                        "available_seats": 99,
-                        "sold_seats": 50,
+                        "available_seats": 98,
+                        "sold_seats": 51,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 33.1,
-                        "revenue": 900.0
+                        "occupancy_pct": 33.8,
+                        "revenue": 918.0
                       },
                       "screen_type": "Std",
                       "screen_name": "1",
@@ -1846,11 +1807,11 @@
                       "start_time": "2026-03-22T17:15",
                       "stats": {
                         "total_seats": 151,
-                        "available_seats": 69,
-                        "sold_seats": 80,
+                        "available_seats": 65,
+                        "sold_seats": 84,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 53.0,
-                        "revenue": 1440.0
+                        "occupancy_pct": 55.6,
+                        "revenue": 1512.0
                       },
                       "screen_type": "Std",
                       "screen_name": "1",
@@ -1971,20 +1932,20 @@
           "overall_stats": {
             "sessions": 51,
             "total_seats": 8354,
-            "sold_seats": 590,
-            "available_seats": 7545,
+            "sold_seats": 594,
+            "available_seats": 7541,
             "occupancy_pct": 7.1,
-            "revenue": 15714.0
+            "revenue": 15806.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
                 "sessions": 27,
                 "total_seats": 3597,
-                "sold_seats": 276,
-                "available_seats": 3172,
+                "sold_seats": 278,
+                "available_seats": 3170,
                 "occupancy_pct": 7.7,
-                "revenue": 7267.5
+                "revenue": 7309.5
               },
               "locations": {
                 "1001": {
@@ -2031,10 +1992,10 @@
                   "overall_stats": {
                     "sessions": 4,
                     "total_seats": 473,
-                    "sold_seats": 35,
-                    "available_seats": 422,
-                    "occupancy_pct": 7.4,
-                    "revenue": 955.0
+                    "sold_seats": 37,
+                    "available_seats": 420,
+                    "occupancy_pct": 7.8,
+                    "revenue": 997.0
                   },
                   "sessions": [
                     {
@@ -2042,11 +2003,11 @@
                       "start_time": "2026-03-23T16:00:00",
                       "stats": {
                         "total_seats": 115,
-                        "sold_seats": 3,
+                        "sold_seats": 5,
                         "unavailable": 4,
-                        "available_seats": 108,
-                        "occupancy_pct": 2.7,
-                        "revenue": 63.0
+                        "available_seats": 106,
+                        "occupancy_pct": 4.5,
+                        "revenue": 105.0
                       },
                       "screen": "Cinema 6"
                     },
@@ -2487,10 +2448,10 @@
               "overall_stats": {
                 "sessions": 24,
                 "total_seats": 4757,
-                "sold_seats": 314,
-                "available_seats": 4373,
+                "sold_seats": 316,
+                "available_seats": 4371,
                 "occupancy_pct": 6.6,
-                "revenue": 8446.5
+                "revenue": 8496.5
               },
               "locations": {
                 "502": {
@@ -3022,10 +2983,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 121,
-                    "sold_seats": 13,
-                    "available_seats": 106,
-                    "occupancy_pct": 10.7,
-                    "revenue": 325.0
+                    "sold_seats": 15,
+                    "available_seats": 104,
+                    "occupancy_pct": 12.4,
+                    "revenue": 375.0
                   },
                   "sessions": [
                     {
@@ -3033,11 +2994,11 @@
                       "start_time": "2026-03-23T18:15",
                       "stats": {
                         "total_seats": 121,
-                        "available_seats": 106,
-                        "sold_seats": 13,
+                        "available_seats": 104,
+                        "sold_seats": 15,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 10.7,
-                        "revenue": 325.0
+                        "occupancy_pct": 12.4,
+                        "revenue": 375.0
                       },
                       "screen_type": "Std",
                       "screen_name": "6",
@@ -3055,20 +3016,20 @@
           "overall_stats": {
             "sessions": 61,
             "total_seats": 9480,
-            "sold_seats": 2055,
-            "available_seats": 7179,
-            "occupancy_pct": 21.7,
-            "revenue": 54903.0
+            "sold_seats": 2072,
+            "available_seats": 7162,
+            "occupancy_pct": 21.9,
+            "revenue": 55179.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
                 "sessions": 32,
                 "total_seats": 4176,
-                "sold_seats": 1005,
-                "available_seats": 3004,
-                "occupancy_pct": 24.1,
-                "revenue": 25228.0
+                "sold_seats": 1021,
+                "available_seats": 2988,
+                "occupancy_pct": 24.4,
+                "revenue": 25478.0
               },
               "locations": {
                 "1001": {
@@ -3154,10 +3115,10 @@
                   "overall_stats": {
                     "sessions": 4,
                     "total_seats": 538,
-                    "sold_seats": 176,
-                    "available_seats": 345,
-                    "occupancy_pct": 32.7,
-                    "revenue": 2415.5
+                    "sold_seats": 188,
+                    "available_seats": 333,
+                    "occupancy_pct": 34.9,
+                    "revenue": 2553.5
                   },
                   "sessions": [
                     {
@@ -3191,11 +3152,11 @@
                       "start_time": "2026-03-24T19:30:00",
                       "stats": {
                         "total_seats": 277,
-                        "sold_seats": 110,
+                        "sold_seats": 122,
                         "unavailable": 9,
-                        "available_seats": 158,
-                        "occupancy_pct": 41.0,
-                        "revenue": 1265.0
+                        "available_seats": 146,
+                        "occupancy_pct": 45.5,
+                        "revenue": 1403.0
                       },
                       "screen": "Cinema 2"
                     },
@@ -3531,10 +3492,10 @@
                   "overall_stats": {
                     "sessions": 7,
                     "total_seats": 777,
-                    "sold_seats": 319,
-                    "available_seats": 425,
-                    "occupancy_pct": 41.1,
-                    "revenue": 9791.5
+                    "sold_seats": 323,
+                    "available_seats": 421,
+                    "occupancy_pct": 41.6,
+                    "revenue": 9903.5
                   },
                   "sessions": [
                     {
@@ -3594,26 +3555,13 @@
                       "start_time": "2026-03-24T21:00:00",
                       "stats": {
                         "total_seats": 84,
-                        "sold_seats": 35,
+                        "sold_seats": 39,
                         "unavailable": 2,
-                        "available_seats": 47,
-                        "occupancy_pct": 42.7,
-                        "revenue": 980.0
+                        "available_seats": 43,
+                        "occupancy_pct": 47.6,
+                        "revenue": 1092.0
                       },
                       "screen": "Cinema 04"
-                    },
-                    {
-                      "session_id": 78690,
-                      "start_time": "2026-03-24T21:15:00",
-                      "stats": {
-                        "total_seats": 222,
-                        "sold_seats": 72,
-                        "unavailable": 4,
-                        "available_seats": 146,
-                        "occupancy_pct": 33.0,
-                        "revenue": 2340.0
-                      },
-                      "screen": "Xtremescreen 01"
                     },
                     {
                       "session_id": 78696,
@@ -3627,6 +3575,19 @@
                         "revenue": 112.0
                       },
                       "screen": "Cinema 03"
+                    },
+                    {
+                      "session_id": 78690,
+                      "start_time": "2026-03-24T21:15:00",
+                      "stats": {
+                        "total_seats": 222,
+                        "sold_seats": 72,
+                        "unavailable": 4,
+                        "available_seats": 146,
+                        "occupancy_pct": 33.0,
+                        "revenue": 2340.0
+                      },
+                      "screen": "Xtremescreen 01"
                     }
                   ]
                 }
@@ -3636,10 +3597,10 @@
               "overall_stats": {
                 "sessions": 29,
                 "total_seats": 5304,
-                "sold_seats": 1050,
-                "available_seats": 4175,
+                "sold_seats": 1051,
+                "available_seats": 4174,
                 "occupancy_pct": 19.8,
-                "revenue": 29675.0
+                "revenue": 29701.0
               },
               "locations": {
                 "502": {
@@ -3965,10 +3926,10 @@
                   "overall_stats": {
                     "sessions": 4,
                     "total_seats": 1050,
-                    "sold_seats": 302,
-                    "available_seats": 734,
-                    "occupancy_pct": 28.8,
-                    "revenue": 8604.0
+                    "sold_seats": 303,
+                    "available_seats": 733,
+                    "occupancy_pct": 28.9,
+                    "revenue": 8630.0
                   },
                   "sessions": [
                     {
@@ -4008,11 +3969,11 @@
                       "start_time": "2026-03-24T18:45",
                       "stats": {
                         "total_seats": 257,
-                        "available_seats": 171,
-                        "sold_seats": 83,
+                        "available_seats": 170,
+                        "sold_seats": 84,
                         "wheelchair_seats": 3,
-                        "occupancy_pct": 32.3,
-                        "revenue": 2158.0
+                        "occupancy_pct": 32.7,
+                        "revenue": 2184.0
                       },
                       "screen_type": "Std",
                       "screen_name": "6",
@@ -5375,38 +5336,38 @@
         ]
       },
       "overall_stats": {
-        "sessions": 28,
-        "total_seats": 2681,
-        "sold_seats": 103,
-        "available_seats": 2497,
-        "occupancy_pct": 3.8,
-        "revenue": 2673.5,
+        "sessions": 27,
+        "total_seats": 2610,
+        "sold_seats": 67,
+        "available_seats": 2468,
+        "occupancy_pct": 2.6,
+        "revenue": 1664.0,
         "dates_count": 5,
-        "hoyts_sessions": 13,
+        "hoyts_sessions": 12,
         "ec_sessions": 15,
-        "hoyts_revenue": 1923.5,
-        "ec_revenue": 750.0
+        "hoyts_revenue": 831.5,
+        "ec_revenue": 832.5
       },
       "dates": [
         {
           "date": "2026-03-21",
           "overall_stats": {
-            "sessions": 4,
-            "total_seats": 311,
-            "sold_seats": 70,
-            "available_seats": 227,
-            "occupancy_pct": 22.5,
-            "revenue": 1877.5
+            "sessions": 3,
+            "total_seats": 240,
+            "sold_seats": 31,
+            "available_seats": 201,
+            "occupancy_pct": 12.9,
+            "revenue": 785.5
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 4,
-                "total_seats": 311,
-                "sold_seats": 70,
-                "available_seats": 227,
-                "occupancy_pct": 22.5,
-                "revenue": 1877.5
+                "sessions": 3,
+                "total_seats": 240,
+                "sold_seats": 31,
+                "available_seats": 201,
+                "occupancy_pct": 12.9,
+                "revenue": 785.5
               },
               "locations": {
                 "1002": {
@@ -5486,32 +5447,6 @@
                       "screen": "Cinema 05"
                     }
                   ]
-                },
-                "ORMCIN": {
-                  "cinema_name": "ORMCIN",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 71,
-                    "sold_seats": 39,
-                    "available_seats": 26,
-                    "occupancy_pct": 54.9,
-                    "revenue": 1092.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 78602,
-                      "start_time": "2026-03-21T21:30:00",
-                      "stats": {
-                        "total_seats": 71,
-                        "sold_seats": 39,
-                        "unavailable": 6,
-                        "available_seats": 26,
-                        "occupancy_pct": 60.0,
-                        "revenue": 1092.0
-                      },
-                      "screen": "Cinema 03"
-                    }
-                  ]
                 }
               }
             },
@@ -5533,10 +5468,10 @@
           "overall_stats": {
             "sessions": 6,
             "total_seats": 499,
-            "sold_seats": 5,
-            "available_seats": 478,
-            "occupancy_pct": 1.0,
-            "revenue": 110.5
+            "sold_seats": 8,
+            "available_seats": 475,
+            "occupancy_pct": 1.6,
+            "revenue": 193.0
           },
           "platforms": {
             "hoyts": {
@@ -5633,10 +5568,10 @@
               "overall_stats": {
                 "sessions": 3,
                 "total_seats": 264,
-                "sold_seats": 5,
-                "available_seats": 254,
-                "occupancy_pct": 1.9,
-                "revenue": 110.5
+                "sold_seats": 8,
+                "available_seats": 251,
+                "occupancy_pct": 3.0,
+                "revenue": 193.0
               },
               "locations": {
                 "502": {
@@ -5644,10 +5579,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 66,
-                    "sold_seats": 1,
-                    "available_seats": 63,
-                    "occupancy_pct": 1.5,
-                    "revenue": 27.5
+                    "sold_seats": 4,
+                    "available_seats": 60,
+                    "occupancy_pct": 6.1,
+                    "revenue": 110.0
                   },
                   "sessions": [
                     {
@@ -5655,11 +5590,11 @@
                       "start_time": "2026-03-22T19:35",
                       "stats": {
                         "total_seats": 66,
-                        "available_seats": 63,
-                        "sold_seats": 1,
+                        "available_seats": 60,
+                        "sold_seats": 4,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 1.5,
-                        "revenue": 27.5
+                        "occupancy_pct": 6.1,
+                        "revenue": 110.0
                       },
                       "screen_type": "Std",
                       "screen_name": "9",
