@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-02T12:08:14.570776+00:00",
+  "fetched_at": "2026-04-02T16:14:22.582268+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -18,16 +18,16 @@
         ]
       },
       "overall_stats": {
-        "sessions": 160,
-        "total_seats": 21213,
-        "sold_seats": 1330,
-        "available_seats": 19247,
-        "occupancy_pct": 6.3,
-        "revenue": 36270.0,
+        "sessions": 159,
+        "total_seats": 21146,
+        "sold_seats": 1318,
+        "available_seats": 19202,
+        "occupancy_pct": 6.2,
+        "revenue": 36069.0,
         "dates_count": 7,
-        "hoyts_sessions": 80,
+        "hoyts_sessions": 79,
         "ec_sessions": 80,
-        "hoyts_revenue": 19270.5,
+        "hoyts_revenue": 19069.5,
         "ec_revenue": 16999.5
       },
       "dates": [
@@ -239,22 +239,22 @@
         {
           "date": "2026-04-03",
           "overall_stats": {
-            "sessions": 30,
-            "total_seats": 3918,
-            "sold_seats": 463,
-            "available_seats": 3335,
-            "occupancy_pct": 11.8,
-            "revenue": 12892.5
+            "sessions": 29,
+            "total_seats": 3851,
+            "sold_seats": 451,
+            "available_seats": 3290,
+            "occupancy_pct": 11.7,
+            "revenue": 12691.5
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 14,
-                "total_seats": 1462,
-                "sold_seats": 216,
-                "available_seats": 1170,
-                "occupancy_pct": 14.8,
-                "revenue": 6439.0
+                "sessions": 13,
+                "total_seats": 1395,
+                "sold_seats": 204,
+                "available_seats": 1125,
+                "occupancy_pct": 14.6,
+                "revenue": 6238.0
               },
               "locations": {
                 "1001": {
@@ -288,10 +288,10 @@
                   "overall_stats": {
                     "sessions": 2,
                     "total_seats": 308,
-                    "sold_seats": 25,
-                    "available_seats": 274,
-                    "occupancy_pct": 8.1,
-                    "revenue": 726.0
+                    "sold_seats": 27,
+                    "available_seats": 272,
+                    "occupancy_pct": 8.8,
+                    "revenue": 814.0
                   },
                   "sessions": [
                     {
@@ -299,11 +299,11 @@
                       "start_time": "2026-04-03T19:30:00",
                       "stats": {
                         "total_seats": 31,
-                        "sold_seats": 8,
+                        "sold_seats": 10,
                         "unavailable": 0,
-                        "available_seats": 23,
-                        "occupancy_pct": 25.8,
-                        "revenue": 352.0
+                        "available_seats": 21,
+                        "occupancy_pct": 32.3,
+                        "revenue": 440.0
                       },
                       "screen": "HOYTS LUX 12"
                     },
@@ -319,32 +319,6 @@
                         "revenue": 374.0
                       },
                       "screen": "Cinema 2"
-                    }
-                  ]
-                },
-                "1004": {
-                  "cinema_name": "1004",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 67,
-                    "sold_seats": 15,
-                    "available_seats": 42,
-                    "occupancy_pct": 22.4,
-                    "revenue": 322.5
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 283786,
-                      "start_time": "2026-04-03T19:20:00",
-                      "stats": {
-                        "total_seats": 67,
-                        "sold_seats": 15,
-                        "unavailable": 10,
-                        "available_seats": 42,
-                        "occupancy_pct": 26.3,
-                        "revenue": 322.5
-                      },
-                      "screen": "Cinema 6"
                     }
                   ]
                 },
@@ -457,10 +431,10 @@
                   "overall_stats": {
                     "sessions": 5,
                     "total_seats": 526,
-                    "sold_seats": 111,
-                    "available_seats": 386,
-                    "occupancy_pct": 21.1,
-                    "revenue": 3624.0
+                    "sold_seats": 112,
+                    "available_seats": 385,
+                    "occupancy_pct": 21.3,
+                    "revenue": 3657.5
                   },
                   "sessions": [
                     {
@@ -481,11 +455,11 @@
                       "start_time": "2026-04-03T15:10:00",
                       "stats": {
                         "total_seats": 126,
-                        "sold_seats": 53,
+                        "sold_seats": 54,
                         "unavailable": 5,
-                        "available_seats": 68,
-                        "occupancy_pct": 43.8,
-                        "revenue": 1775.5
+                        "available_seats": 67,
+                        "occupancy_pct": 44.6,
+                        "revenue": 1809.0
                       },
                       "screen": "Xtremescreen 07"
                     },
