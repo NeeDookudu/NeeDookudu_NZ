@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T20:44:34.590683+00:00",
+  "fetched_at": "2026-04-12T21:41:48.341339+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -18,17 +18,17 @@
         ]
       },
       "overall_stats": {
-        "sessions": 40,
-        "total_seats": 4746,
-        "sold_seats": 241,
-        "available_seats": 4372,
-        "occupancy_pct": 5.1,
-        "revenue": 6284.0,
-        "dates_count": 3,
+        "sessions": 44,
+        "total_seats": 5590,
+        "sold_seats": 275,
+        "available_seats": 5174,
+        "occupancy_pct": 4.9,
+        "revenue": 7193.0,
+        "dates_count": 7,
         "hoyts_sessions": 16,
-        "ec_sessions": 24,
+        "ec_sessions": 28,
         "hoyts_revenue": 1818.0,
-        "ec_revenue": 4466.0
+        "ec_revenue": 5375.0
       },
       "dates": [
         {
@@ -36,10 +36,10 @@
           "overall_stats": {
             "sessions": 13,
             "total_seats": 1560,
-            "sold_seats": 51,
-            "available_seats": 1466,
-            "occupancy_pct": 3.3,
-            "revenue": 1337.0
+            "sold_seats": 53,
+            "available_seats": 1464,
+            "occupancy_pct": 3.4,
+            "revenue": 1390.0
           },
           "platforms": {
             "hoyts": {
@@ -162,10 +162,10 @@
               "overall_stats": {
                 "sessions": 8,
                 "total_seats": 1046,
-                "sold_seats": 44,
-                "available_seats": 982,
-                "occupancy_pct": 4.2,
-                "revenue": 1141.0
+                "sold_seats": 46,
+                "available_seats": 980,
+                "occupancy_pct": 4.4,
+                "revenue": 1194.0
               },
               "locations": {
                 "502": {
@@ -276,10 +276,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 211,
-                    "sold_seats": 12,
-                    "available_seats": 197,
-                    "occupancy_pct": 5.7,
-                    "revenue": 318.0
+                    "sold_seats": 14,
+                    "available_seats": 195,
+                    "occupancy_pct": 6.6,
+                    "revenue": 371.0
                   },
                   "sessions": [
                     {
@@ -287,11 +287,11 @@
                       "start_time": "2026-04-13T13:45",
                       "stats": {
                         "total_seats": 211,
-                        "available_seats": 197,
-                        "sold_seats": 12,
+                        "available_seats": 195,
+                        "sold_seats": 14,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 5.7,
-                        "revenue": 318.0
+                        "occupancy_pct": 6.6,
+                        "revenue": 371.0
                       },
                       "screen_type": "Std",
                       "screen_name": "8",
@@ -1130,6 +1130,266 @@
                       "screen_name": "6",
                       "ho_code": "HO00018413",
                       "adult_price": 18.0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-04-16",
+          "overall_stats": {
+            "sessions": 1,
+            "total_seats": 211,
+            "sold_seats": 8,
+            "available_seats": 201,
+            "occupancy_pct": 3.8,
+            "revenue": 212.0
+          },
+          "platforms": {
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "total_seats": 211,
+                "sold_seats": 8,
+                "available_seats": 201,
+                "occupancy_pct": 3.8,
+                "revenue": 212.0
+              },
+              "locations": {
+                "507": {
+                  "cinema_name": "Manukau",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 211,
+                    "sold_seats": 8,
+                    "available_seats": 201,
+                    "occupancy_pct": 3.8,
+                    "revenue": 212.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 2343420,
+                      "start_time": "2026-04-16T18:55",
+                      "stats": {
+                        "total_seats": 211,
+                        "available_seats": 201,
+                        "sold_seats": 8,
+                        "wheelchair_seats": 2,
+                        "occupancy_pct": 3.8,
+                        "revenue": 212.0
+                      },
+                      "screen_type": "Std",
+                      "screen_name": "8",
+                      "ho_code": "HO00018413",
+                      "adult_price": 26.5
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-04-17",
+          "overall_stats": {
+            "sessions": 1,
+            "total_seats": 211,
+            "sold_seats": 8,
+            "available_seats": 201,
+            "occupancy_pct": 3.8,
+            "revenue": 216.0
+          },
+          "platforms": {
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "total_seats": 211,
+                "sold_seats": 8,
+                "available_seats": 201,
+                "occupancy_pct": 3.8,
+                "revenue": 216.0
+              },
+              "locations": {
+                "507": {
+                  "cinema_name": "Manukau",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 211,
+                    "sold_seats": 8,
+                    "available_seats": 201,
+                    "occupancy_pct": 3.8,
+                    "revenue": 216.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 2343415,
+                      "start_time": "2026-04-17T19:20",
+                      "stats": {
+                        "total_seats": 211,
+                        "available_seats": 201,
+                        "sold_seats": 8,
+                        "wheelchair_seats": 2,
+                        "occupancy_pct": 3.8,
+                        "revenue": 216.0
+                      },
+                      "screen_type": "Std",
+                      "screen_name": "7",
+                      "ho_code": "HO00018413",
+                      "adult_price": 27.0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-04-18",
+          "overall_stats": {
+            "sessions": 1,
+            "total_seats": 211,
+            "sold_seats": 8,
+            "available_seats": 201,
+            "occupancy_pct": 3.8,
+            "revenue": 216.0
+          },
+          "platforms": {
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "total_seats": 211,
+                "sold_seats": 8,
+                "available_seats": 201,
+                "occupancy_pct": 3.8,
+                "revenue": 216.0
+              },
+              "locations": {
+                "507": {
+                  "cinema_name": "Manukau",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 211,
+                    "sold_seats": 8,
+                    "available_seats": 201,
+                    "occupancy_pct": 3.8,
+                    "revenue": 216.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 2343396,
+                      "start_time": "2026-04-18T19:15",
+                      "stats": {
+                        "total_seats": 211,
+                        "available_seats": 201,
+                        "sold_seats": 8,
+                        "wheelchair_seats": 2,
+                        "occupancy_pct": 3.8,
+                        "revenue": 216.0
+                      },
+                      "screen_type": "Std",
+                      "screen_name": "8",
+                      "ho_code": "HO00018413",
+                      "adult_price": 27.0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-04-21",
+          "overall_stats": {
+            "sessions": 1,
+            "total_seats": 211,
+            "sold_seats": 8,
+            "available_seats": 201,
+            "occupancy_pct": 3.8,
+            "revenue": 212.0
+          },
+          "platforms": {
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "total_seats": 211,
+                "sold_seats": 8,
+                "available_seats": 201,
+                "occupancy_pct": 3.8,
+                "revenue": 212.0
+              },
+              "locations": {
+                "507": {
+                  "cinema_name": "Manukau",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 211,
+                    "sold_seats": 8,
+                    "available_seats": 201,
+                    "occupancy_pct": 3.8,
+                    "revenue": 212.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 2343451,
+                      "start_time": "2026-04-21T19:15",
+                      "stats": {
+                        "total_seats": 211,
+                        "available_seats": 201,
+                        "sold_seats": 8,
+                        "wheelchair_seats": 2,
+                        "occupancy_pct": 3.8,
+                        "revenue": 212.0
+                      },
+                      "screen_type": "Std",
+                      "screen_name": "8",
+                      "ho_code": "HO00018413",
+                      "adult_price": 26.5
                     }
                   ]
                 }
