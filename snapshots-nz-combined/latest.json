@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T10:48:30.311965+00:00",
+  "fetched_at": "2026-04-12T11:39:03.984270+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -18,38 +18,38 @@
         ]
       },
       "overall_stats": {
-        "sessions": 47,
-        "total_seats": 5440,
-        "sold_seats": 335,
-        "available_seats": 4943,
-        "occupancy_pct": 6.2,
-        "revenue": 8645.0,
+        "sessions": 46,
+        "total_seats": 5369,
+        "sold_seats": 313,
+        "available_seats": 4902,
+        "occupancy_pct": 5.8,
+        "revenue": 8029.0,
         "dates_count": 4,
-        "hoyts_sessions": 23,
+        "hoyts_sessions": 22,
         "ec_sessions": 24,
-        "hoyts_revenue": 4179.0,
+        "hoyts_revenue": 3563.0,
         "ec_revenue": 4466.0
       },
       "dates": [
         {
           "date": "2026-04-12",
           "overall_stats": {
-            "sessions": 7,
-            "total_seats": 694,
-            "sold_seats": 94,
-            "available_seats": 571,
-            "occupancy_pct": 13.5,
-            "revenue": 2361.0
+            "sessions": 6,
+            "total_seats": 623,
+            "sold_seats": 72,
+            "available_seats": 530,
+            "occupancy_pct": 11.6,
+            "revenue": 1745.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 7,
-                "total_seats": 694,
-                "sold_seats": 94,
-                "available_seats": 571,
-                "occupancy_pct": 13.5,
-                "revenue": 2361.0
+                "sessions": 6,
+                "total_seats": 623,
+                "sold_seats": 72,
+                "available_seats": 530,
+                "occupancy_pct": 11.6,
+                "revenue": 1745.0
               },
               "locations": {
                 "1001": {
@@ -179,32 +179,6 @@
                         "revenue": 620.0
                       },
                       "screen": "Cinema 5"
-                    }
-                  ]
-                },
-                "ORMCIN": {
-                  "cinema_name": "ORMCIN",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 71,
-                    "sold_seats": 22,
-                    "available_seats": 41,
-                    "occupancy_pct": 31.0,
-                    "revenue": 616.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 79344,
-                      "start_time": "2026-04-12T19:00:00",
-                      "stats": {
-                        "total_seats": 71,
-                        "sold_seats": 22,
-                        "unavailable": 8,
-                        "available_seats": 41,
-                        "occupancy_pct": 34.9,
-                        "revenue": 616.0
-                      },
-                      "screen": "Cinema 03"
                     }
                   ]
                 }
