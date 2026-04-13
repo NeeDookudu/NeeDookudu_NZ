@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-13T11:21:43.917289+00:00",
+  "fetched_at": "2026-04-13T13:56:39.643237+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -18,16 +18,16 @@
         ]
       },
       "overall_stats": {
-        "sessions": 58,
-        "total_seats": 7220,
-        "sold_seats": 391,
-        "available_seats": 6644,
-        "occupancy_pct": 5.4,
-        "revenue": 9912.0,
+        "sessions": 64,
+        "total_seats": 7646,
+        "sold_seats": 393,
+        "available_seats": 7020,
+        "occupancy_pct": 5.1,
+        "revenue": 9968.0,
         "dates_count": 10,
-        "hoyts_sessions": 21,
+        "hoyts_sessions": 27,
         "ec_sessions": 37,
-        "hoyts_revenue": 3004.0,
+        "hoyts_revenue": 3060.0,
         "ec_revenue": 6908.0
       },
       "dates": [
@@ -137,20 +137,20 @@
           "overall_stats": {
             "sessions": 14,
             "total_seats": 1626,
-            "sold_seats": 214,
-            "available_seats": 1365,
-            "occupancy_pct": 13.2,
-            "revenue": 5545.0
+            "sold_seats": 216,
+            "available_seats": 1363,
+            "occupancy_pct": 13.3,
+            "revenue": 5601.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
                 "sessions": 6,
                 "total_seats": 580,
-                "sold_seats": 93,
-                "available_seats": 460,
-                "occupancy_pct": 16.0,
-                "revenue": 2241.0
+                "sold_seats": 95,
+                "available_seats": 458,
+                "occupancy_pct": 16.4,
+                "revenue": 2297.0
               },
               "locations": {
                 "1001": {
@@ -249,10 +249,10 @@
                   "overall_stats": {
                     "sessions": 2,
                     "total_seats": 142,
-                    "sold_seats": 46,
-                    "available_seats": 84,
-                    "occupancy_pct": 32.4,
-                    "revenue": 1288.0
+                    "sold_seats": 48,
+                    "available_seats": 82,
+                    "occupancy_pct": 33.8,
+                    "revenue": 1344.0
                   },
                   "sessions": [
                     {
@@ -273,11 +273,11 @@
                       "start_time": "2026-04-14T19:00:00",
                       "stats": {
                         "total_seats": 71,
-                        "sold_seats": 30,
+                        "sold_seats": 32,
                         "unavailable": 8,
-                        "available_seats": 33,
-                        "occupancy_pct": 47.6,
-                        "revenue": 840.0
+                        "available_seats": 31,
+                        "occupancy_pct": 50.8,
+                        "revenue": 896.0
                       },
                       "screen": "Cinema 03"
                     }
@@ -881,20 +881,20 @@
         {
           "date": "2026-04-16",
           "overall_stats": {
-            "sessions": 6,
-            "total_seats": 821,
+            "sessions": 7,
+            "total_seats": 892,
             "sold_seats": 24,
-            "available_seats": 780,
-            "occupancy_pct": 2.9,
+            "available_seats": 843,
+            "occupancy_pct": 2.7,
             "revenue": 581.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 1,
-                "total_seats": 66,
+                "sessions": 2,
+                "total_seats": 137,
                 "sold_seats": 0,
-                "available_seats": 62,
+                "available_seats": 125,
                 "occupancy_pct": 0.0,
                 "revenue": 0.0
               },
@@ -922,6 +922,32 @@
                         "revenue": 0.0
                       },
                       "screen": "Cinema 8"
+                    }
+                  ]
+                },
+                "ORMCIN": {
+                  "cinema_name": "ORMCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 71,
+                    "sold_seats": 0,
+                    "available_seats": 63,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 79517,
+                      "start_time": "2026-04-16T19:30:00",
+                      "stats": {
+                        "total_seats": 71,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 63,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "screen": "Cinema 03"
                     }
                   ]
                 }
@@ -1089,20 +1115,20 @@
         {
           "date": "2026-04-17",
           "overall_stats": {
-            "sessions": 5,
-            "total_seats": 783,
+            "sessions": 6,
+            "total_seats": 854,
             "sold_seats": 24,
-            "available_seats": 744,
-            "occupancy_pct": 3.1,
+            "available_seats": 807,
+            "occupancy_pct": 2.8,
             "revenue": 569.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 1,
-                "total_seats": 83,
+                "sessions": 2,
+                "total_seats": 154,
                 "sold_seats": 0,
-                "available_seats": 81,
+                "available_seats": 144,
                 "occupancy_pct": 0.0,
                 "revenue": 0.0
               },
@@ -1130,6 +1156,32 @@
                         "revenue": 0.0
                       },
                       "screen": "Cinema 4"
+                    }
+                  ]
+                },
+                "ORMCIN": {
+                  "cinema_name": "ORMCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 71,
+                    "sold_seats": 0,
+                    "available_seats": 63,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 79572,
+                      "start_time": "2026-04-17T19:30:00",
+                      "stats": {
+                        "total_seats": 71,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 63,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "screen": "Cinema 03"
                     }
                   ]
                 }
@@ -1268,20 +1320,20 @@
         {
           "date": "2026-04-18",
           "overall_stats": {
-            "sessions": 5,
-            "total_seats": 766,
+            "sessions": 6,
+            "total_seats": 837,
             "sold_seats": 26,
-            "available_seats": 723,
-            "occupancy_pct": 3.4,
+            "available_seats": 786,
+            "occupancy_pct": 3.1,
             "revenue": 623.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 1,
-                "total_seats": 66,
+                "sessions": 2,
+                "total_seats": 137,
                 "sold_seats": 0,
-                "available_seats": 62,
+                "available_seats": 125,
                 "occupancy_pct": 0.0,
                 "revenue": 0.0
               },
@@ -1309,6 +1361,32 @@
                         "revenue": 0.0
                       },
                       "screen": "Cinema 8"
+                    }
+                  ]
+                },
+                "ORMCIN": {
+                  "cinema_name": "ORMCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 71,
+                    "sold_seats": 0,
+                    "available_seats": 63,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 79610,
+                      "start_time": "2026-04-18T19:30:00",
+                      "stats": {
+                        "total_seats": 71,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 63,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "screen": "Cinema 03"
                     }
                   ]
                 }
@@ -1447,20 +1525,20 @@
         {
           "date": "2026-04-19",
           "overall_stats": {
-            "sessions": 3,
-            "total_seats": 297,
+            "sessions": 4,
+            "total_seats": 368,
             "sold_seats": 8,
-            "available_seats": 280,
-            "occupancy_pct": 2.7,
+            "available_seats": 343,
+            "occupancy_pct": 2.2,
             "revenue": 214.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 1,
-                "total_seats": 66,
+                "sessions": 2,
+                "total_seats": 137,
                 "sold_seats": 0,
-                "available_seats": 62,
+                "available_seats": 125,
                 "occupancy_pct": 0.0,
                 "revenue": 0.0
               },
@@ -1488,6 +1566,32 @@
                         "revenue": 0.0
                       },
                       "screen": "Cinema 8"
+                    }
+                  ]
+                },
+                "ORMCIN": {
+                  "cinema_name": "ORMCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 71,
+                    "sold_seats": 0,
+                    "available_seats": 63,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 79648,
+                      "start_time": "2026-04-19T19:30:00",
+                      "stats": {
+                        "total_seats": 71,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 63,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "screen": "Cinema 03"
                     }
                   ]
                 }
@@ -1568,20 +1672,20 @@
         {
           "date": "2026-04-20",
           "overall_stats": {
-            "sessions": 3,
-            "total_seats": 297,
+            "sessions": 4,
+            "total_seats": 368,
             "sold_seats": 8,
-            "available_seats": 280,
-            "occupancy_pct": 2.7,
+            "available_seats": 343,
+            "occupancy_pct": 2.2,
             "revenue": 214.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 1,
-                "total_seats": 66,
+                "sessions": 2,
+                "total_seats": 137,
                 "sold_seats": 0,
-                "available_seats": 62,
+                "available_seats": 125,
                 "occupancy_pct": 0.0,
                 "revenue": 0.0
               },
@@ -1609,6 +1713,32 @@
                         "revenue": 0.0
                       },
                       "screen": "Cinema 8"
+                    }
+                  ]
+                },
+                "ORMCIN": {
+                  "cinema_name": "ORMCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 71,
+                    "sold_seats": 0,
+                    "available_seats": 63,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 79686,
+                      "start_time": "2026-04-20T19:30:00",
+                      "stats": {
+                        "total_seats": 71,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 63,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "screen": "Cinema 03"
                     }
                   ]
                 }
@@ -1689,20 +1819,20 @@
         {
           "date": "2026-04-21",
           "overall_stats": {
-            "sessions": 4,
-            "total_seats": 508,
+            "sessions": 5,
+            "total_seats": 579,
             "sold_seats": 16,
-            "available_seats": 481,
-            "occupancy_pct": 3.1,
+            "available_seats": 544,
+            "occupancy_pct": 2.8,
             "revenue": 426.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
-                "sessions": 1,
-                "total_seats": 66,
+                "sessions": 2,
+                "total_seats": 137,
                 "sold_seats": 0,
-                "available_seats": 62,
+                "available_seats": 125,
                 "occupancy_pct": 0.0,
                 "revenue": 0.0
               },
@@ -1730,6 +1860,32 @@
                         "revenue": 0.0
                       },
                       "screen": "Cinema 8"
+                    }
+                  ]
+                },
+                "ORMCIN": {
+                  "cinema_name": "ORMCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 71,
+                    "sold_seats": 0,
+                    "available_seats": 63,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 79724,
+                      "start_time": "2026-04-21T19:30:00",
+                      "stats": {
+                        "total_seats": 71,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 63,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "screen": "Cinema 03"
                     }
                   ]
                 }
