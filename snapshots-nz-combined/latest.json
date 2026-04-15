@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-15T20:59:38.563523+00:00",
+  "fetched_at": "2026-04-15T22:00:45.014342+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -18,28 +18,28 @@
         ]
       },
       "overall_stats": {
-        "sessions": 50,
-        "total_seats": 5868,
-        "sold_seats": 158,
-        "available_seats": 5494,
+        "sessions": 49,
+        "total_seats": 5657,
+        "sold_seats": 150,
+        "available_seats": 5293,
         "occupancy_pct": 2.7,
-        "revenue": 4170.0,
+        "revenue": 3958.0,
         "dates_count": 7,
         "hoyts_sessions": 29,
-        "ec_sessions": 21,
+        "ec_sessions": 20,
         "hoyts_revenue": 821.0,
-        "ec_revenue": 3349.0
+        "ec_revenue": 3137.0
       },
       "dates": [
         {
           "date": "2026-04-16",
           "overall_stats": {
-            "sessions": 12,
-            "total_seats": 1425,
-            "sold_seats": 42,
-            "available_seats": 1330,
-            "occupancy_pct": 2.9,
-            "revenue": 1147.0
+            "sessions": 11,
+            "total_seats": 1214,
+            "sold_seats": 34,
+            "available_seats": 1129,
+            "occupancy_pct": 2.8,
+            "revenue": 935.0
           },
           "platforms": {
             "hoyts": {
@@ -212,12 +212,12 @@
             },
             "event_cinemas": {
               "overall_stats": {
-                "sessions": 5,
-                "total_seats": 754,
-                "sold_seats": 31,
-                "available_seats": 710,
-                "occupancy_pct": 4.1,
-                "revenue": 764.0
+                "sessions": 4,
+                "total_seats": 543,
+                "sold_seats": 23,
+                "available_seats": 509,
+                "occupancy_pct": 4.2,
+                "revenue": 552.0
               },
               "locations": {
                 "505": {
@@ -275,35 +275,6 @@
                       "screen_name": "3",
                       "ho_code": "HO00018413",
                       "adult_price": 17.0
-                    }
-                  ]
-                },
-                "507": {
-                  "cinema_name": "Manukau",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 211,
-                    "sold_seats": 8,
-                    "available_seats": 201,
-                    "occupancy_pct": 3.8,
-                    "revenue": 212.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 2343420,
-                      "start_time": "2026-04-16T18:55",
-                      "stats": {
-                        "total_seats": 211,
-                        "available_seats": 201,
-                        "sold_seats": 8,
-                        "wheelchair_seats": 2,
-                        "occupancy_pct": 3.8,
-                        "revenue": 212.0
-                      },
-                      "screen_type": "Std",
-                      "screen_name": "8",
-                      "ho_code": "HO00018413",
-                      "adult_price": 26.5
                     }
                   ]
                 },
