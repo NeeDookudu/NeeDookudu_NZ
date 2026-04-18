@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T17:41:55.890177+00:00",
+  "fetched_at": "2026-04-18T19:01:13.968482+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -18,120 +18,19 @@
         ]
       },
       "overall_stats": {
-        "sessions": 21,
-        "total_seats": 2330,
-        "sold_seats": 157,
-        "available_seats": 2080,
-        "occupancy_pct": 6.7,
-        "revenue": 4374.5,
-        "dates_count": 5,
-        "hoyts_sessions": 13,
+        "sessions": 18,
+        "total_seats": 2038,
+        "sold_seats": 86,
+        "available_seats": 1873,
+        "occupancy_pct": 4.2,
+        "revenue": 2345.5,
+        "dates_count": 4,
+        "hoyts_sessions": 10,
         "ec_sessions": 8,
-        "hoyts_revenue": 2602.0,
+        "hoyts_revenue": 573.0,
         "ec_revenue": 1772.5
       },
       "dates": [
-        {
-          "date": "2026-04-18",
-          "overall_stats": {
-            "sessions": 3,
-            "total_seats": 292,
-            "sold_seats": 71,
-            "available_seats": 207,
-            "occupancy_pct": 24.3,
-            "revenue": 2029.0
-          },
-          "platforms": {
-            "hoyts": {
-              "overall_stats": {
-                "sessions": 3,
-                "total_seats": 292,
-                "sold_seats": 71,
-                "available_seats": 207,
-                "occupancy_pct": 24.3,
-                "revenue": 2029.0
-              },
-              "locations": {
-                "1002": {
-                  "cinema_name": "1002",
-                  "overall_stats": {
-                    "sessions": 2,
-                    "total_seats": 226,
-                    "sold_seats": 35,
-                    "available_seats": 181,
-                    "occupancy_pct": 15.5,
-                    "revenue": 1021.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 487816,
-                      "start_time": "2026-04-18T19:50:00",
-                      "stats": {
-                        "total_seats": 23,
-                        "sold_seats": 13,
-                        "unavailable": 0,
-                        "available_seats": 10,
-                        "occupancy_pct": 56.5,
-                        "revenue": 559.0
-                      },
-                      "screen": "Lux 14"
-                    },
-                    {
-                      "session_id": 487817,
-                      "start_time": "2026-04-18T19:50:00",
-                      "stats": {
-                        "total_seats": 203,
-                        "sold_seats": 22,
-                        "unavailable": 10,
-                        "available_seats": 171,
-                        "occupancy_pct": 11.4,
-                        "revenue": 462.0
-                      },
-                      "screen": "Cinema 04"
-                    }
-                  ]
-                },
-                "1012": {
-                  "cinema_name": "1012",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 66,
-                    "sold_seats": 36,
-                    "available_seats": 26,
-                    "occupancy_pct": 54.5,
-                    "revenue": 1008.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 416353,
-                      "start_time": "2026-04-18T20:00:00",
-                      "stats": {
-                        "total_seats": 66,
-                        "sold_seats": 36,
-                        "unavailable": 4,
-                        "available_seats": 26,
-                        "occupancy_pct": 58.1,
-                        "revenue": 1008.0
-                      },
-                      "screen": "Cinema 8"
-                    }
-                  ]
-                }
-              }
-            },
-            "event_cinemas": {
-              "overall_stats": {
-                "sessions": 0,
-                "total_seats": 0,
-                "sold_seats": 0,
-                "available_seats": 0,
-                "occupancy_pct": 0.0,
-                "revenue": 0
-              },
-              "locations": {}
-            }
-          }
-        },
         {
           "date": "2026-04-19",
           "overall_stats": {
