@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-21T22:46:08.286475+00:00",
+  "fetched_at": "2026-04-21T23:41:23.733967+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -18,28 +18,28 @@
         ]
       },
       "overall_stats": {
-        "sessions": 7,
-        "total_seats": 866,
-        "sold_seats": 58,
-        "available_seats": 790,
-        "occupancy_pct": 6.7,
-        "revenue": 1476.0,
+        "sessions": 6,
+        "total_seats": 742,
+        "sold_seats": 41,
+        "available_seats": 685,
+        "occupancy_pct": 5.5,
+        "revenue": 1034.0,
         "dates_count": 6,
         "hoyts_sessions": 1,
-        "ec_sessions": 6,
+        "ec_sessions": 5,
         "hoyts_revenue": 147.0,
-        "ec_revenue": 1329.0
+        "ec_revenue": 887.0
       },
       "dates": [
         {
           "date": "2026-04-22",
           "overall_stats": {
-            "sessions": 2,
-            "total_seats": 246,
-            "sold_seats": 24,
-            "available_seats": 214,
-            "occupancy_pct": 9.8,
-            "revenue": 589.0
+            "sessions": 1,
+            "total_seats": 122,
+            "sold_seats": 7,
+            "available_seats": 109,
+            "occupancy_pct": 5.7,
+            "revenue": 147.0
           },
           "platforms": {
             "hoyts": {
@@ -82,44 +82,14 @@
             },
             "event_cinemas": {
               "overall_stats": {
-                "sessions": 1,
-                "total_seats": 124,
-                "sold_seats": 17,
-                "available_seats": 105,
-                "occupancy_pct": 13.7,
-                "revenue": 442.0
+                "sessions": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
               },
-              "locations": {
-                "509": {
-                  "cinema_name": "St Lukes",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 124,
-                    "sold_seats": 17,
-                    "available_seats": 105,
-                    "occupancy_pct": 13.7,
-                    "revenue": 442.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 2344809,
-                      "start_time": "2026-04-22T11:00",
-                      "stats": {
-                        "total_seats": 124,
-                        "available_seats": 105,
-                        "sold_seats": 17,
-                        "wheelchair_seats": 2,
-                        "occupancy_pct": 13.7,
-                        "revenue": 442.0
-                      },
-                      "screen_type": "Std",
-                      "screen_name": "7",
-                      "ho_code": "HO00018413",
-                      "adult_price": 26.0
-                    }
-                  ]
-                }
-              }
+              "locations": {}
             }
           }
         },
