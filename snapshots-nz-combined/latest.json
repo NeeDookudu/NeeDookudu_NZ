@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-22T08:51:28.564640+00:00",
+  "fetched_at": "2026-04-22T10:23:33.708834+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -20,15 +20,15 @@
       "overall_stats": {
         "sessions": 6,
         "total_seats": 742,
-        "sold_seats": 68,
-        "available_seats": 658,
-        "occupancy_pct": 9.2,
-        "revenue": 1616.0,
+        "sold_seats": 74,
+        "available_seats": 652,
+        "occupancy_pct": 10.0,
+        "revenue": 1772.0,
         "dates_count": 6,
         "hoyts_sessions": 1,
         "ec_sessions": 5,
         "hoyts_revenue": 651.0,
-        "ec_revenue": 965.0
+        "ec_revenue": 1121.0
       },
       "dates": [
         {
@@ -98,10 +98,10 @@
           "overall_stats": {
             "sessions": 1,
             "total_seats": 124,
-            "sold_seats": 10,
-            "available_seats": 112,
-            "occupancy_pct": 8.1,
-            "revenue": 260.0
+            "sold_seats": 16,
+            "available_seats": 106,
+            "occupancy_pct": 12.9,
+            "revenue": 416.0
           },
           "platforms": {
             "hoyts": {
@@ -119,10 +119,10 @@
               "overall_stats": {
                 "sessions": 1,
                 "total_seats": 124,
-                "sold_seats": 10,
-                "available_seats": 112,
-                "occupancy_pct": 8.1,
-                "revenue": 260.0
+                "sold_seats": 16,
+                "available_seats": 106,
+                "occupancy_pct": 12.9,
+                "revenue": 416.0
               },
               "locations": {
                 "509": {
@@ -130,10 +130,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 124,
-                    "sold_seats": 10,
-                    "available_seats": 112,
-                    "occupancy_pct": 8.1,
-                    "revenue": 260.0
+                    "sold_seats": 16,
+                    "available_seats": 106,
+                    "occupancy_pct": 12.9,
+                    "revenue": 416.0
                   },
                   "sessions": [
                     {
@@ -141,11 +141,11 @@
                       "start_time": "2026-04-23T19:00",
                       "stats": {
                         "total_seats": 124,
-                        "available_seats": 112,
-                        "sold_seats": 10,
+                        "available_seats": 106,
+                        "sold_seats": 16,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 8.1,
-                        "revenue": 260.0
+                        "occupancy_pct": 12.9,
+                        "revenue": 416.0
                       },
                       "screen_type": "Std",
                       "screen_name": "8",
