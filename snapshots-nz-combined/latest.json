@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-22T18:04:11.268088+00:00",
+  "fetched_at": "2026-04-22T20:09:34.292549+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
       "movie_info": {
         "title": "Dhurandhar: The Revenge",
-        "poster_url": "https://imgix.hoyts.co.nz/mx/posters/au/9-x-16-red-rain-mg-poster-copy-1920px.jpg",
+        "poster_url": "https://cdn.eventcinemas.co.nz/cdn/resources/movies/21052/images/largeposter.jpg",
         "release_date": "2026-03-19",
         "running_time_mins": 235,
         "director": "Aditya Dhar",
@@ -18,81 +18,19 @@
         ]
       },
       "overall_stats": {
-        "sessions": 6,
-        "total_seats": 742,
-        "sold_seats": 74,
-        "available_seats": 652,
-        "occupancy_pct": 10.0,
-        "revenue": 1772.0,
-        "dates_count": 6,
-        "hoyts_sessions": 1,
+        "sessions": 5,
+        "total_seats": 620,
+        "sold_seats": 43,
+        "available_seats": 567,
+        "occupancy_pct": 6.9,
+        "revenue": 1121.0,
+        "dates_count": 5,
+        "hoyts_sessions": 0,
         "ec_sessions": 5,
-        "hoyts_revenue": 651.0,
+        "hoyts_revenue": 0,
         "ec_revenue": 1121.0
       },
       "dates": [
-        {
-          "date": "2026-04-22",
-          "overall_stats": {
-            "sessions": 1,
-            "total_seats": 122,
-            "sold_seats": 31,
-            "available_seats": 85,
-            "occupancy_pct": 25.4,
-            "revenue": 651.0
-          },
-          "platforms": {
-            "hoyts": {
-              "overall_stats": {
-                "sessions": 1,
-                "total_seats": 122,
-                "sold_seats": 31,
-                "available_seats": 85,
-                "occupancy_pct": 25.4,
-                "revenue": 651.0
-              },
-              "locations": {
-                "1002": {
-                  "cinema_name": "1002",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 122,
-                    "sold_seats": 31,
-                    "available_seats": 85,
-                    "occupancy_pct": 25.4,
-                    "revenue": 651.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 488053,
-                      "start_time": "2026-04-22T20:00:00",
-                      "stats": {
-                        "total_seats": 122,
-                        "sold_seats": 31,
-                        "unavailable": 6,
-                        "available_seats": 85,
-                        "occupancy_pct": 26.7,
-                        "revenue": 651.0
-                      },
-                      "screen": "Cinema 05"
-                    }
-                  ]
-                }
-              }
-            },
-            "event_cinemas": {
-              "overall_stats": {
-                "sessions": 0,
-                "total_seats": 0,
-                "sold_seats": 0,
-                "available_seats": 0,
-                "occupancy_pct": 0.0,
-                "revenue": 0
-              },
-              "locations": {}
-            }
-          }
-        },
         {
           "date": "2026-04-23",
           "overall_stats": {
