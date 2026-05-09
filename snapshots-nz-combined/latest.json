@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-09T00:00:54.788136+00:00",
+  "fetched_at": "2026-05-09T04:27:07.996839+00:00",
   "movies": [
     {
       "title": "Dhurandhar: The Revenge",
@@ -18,85 +18,19 @@
         ]
       },
       "overall_stats": {
-        "sessions": 1,
-        "total_seats": 124,
-        "sold_seats": 24,
-        "available_seats": 98,
-        "occupancy_pct": 19.4,
-        "revenue": 624.0,
-        "dates_count": 1,
+        "sessions": 0,
+        "total_seats": 0,
+        "sold_seats": 0,
+        "available_seats": 0,
+        "occupancy_pct": 0.0,
+        "revenue": 0,
+        "dates_count": 0,
         "hoyts_sessions": 0,
-        "ec_sessions": 1,
+        "ec_sessions": 0,
         "hoyts_revenue": 0,
-        "ec_revenue": 624.0
+        "ec_revenue": 0
       },
-      "dates": [
-        {
-          "date": "2026-05-09",
-          "overall_stats": {
-            "sessions": 1,
-            "total_seats": 124,
-            "sold_seats": 24,
-            "available_seats": 98,
-            "occupancy_pct": 19.4,
-            "revenue": 624.0
-          },
-          "platforms": {
-            "hoyts": {
-              "overall_stats": {
-                "sessions": 0,
-                "total_seats": 0,
-                "sold_seats": 0,
-                "available_seats": 0,
-                "occupancy_pct": 0.0,
-                "revenue": 0
-              },
-              "locations": {}
-            },
-            "event_cinemas": {
-              "overall_stats": {
-                "sessions": 1,
-                "total_seats": 124,
-                "sold_seats": 24,
-                "available_seats": 98,
-                "occupancy_pct": 19.4,
-                "revenue": 624.0
-              },
-              "locations": {
-                "509": {
-                  "cinema_name": "St Lukes",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 124,
-                    "sold_seats": 24,
-                    "available_seats": 98,
-                    "occupancy_pct": 19.4,
-                    "revenue": 624.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 2354792,
-                      "start_time": "2026-05-09T16:10",
-                      "stats": {
-                        "total_seats": 124,
-                        "available_seats": 98,
-                        "sold_seats": 24,
-                        "wheelchair_seats": 2,
-                        "occupancy_pct": 19.4,
-                        "revenue": 624.0
-                      },
-                      "screen_type": "Std",
-                      "screen_name": "7",
-                      "ho_code": "HO00018413",
-                      "adult_price": 26.0
-                    }
-                  ]
-                }
-              }
-            }
-          }
-        }
-      ]
+      "dates": []
     },
     {
       "title": "Ustaad Bhagat Singh",
