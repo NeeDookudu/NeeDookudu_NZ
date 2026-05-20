@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-20T04:11:07.015264+00:00",
+  "fetched_at": "2026-05-20T08:30:52.668440+00:00",
   "movies": [
     {
       "title": "Karuppu",
@@ -20,15 +20,15 @@
       "overall_stats": {
         "sessions": 16,
         "total_seats": 1458,
-        "sold_seats": 113,
-        "available_seats": 1275,
-        "occupancy_pct": 7.8,
-        "revenue": 2862.0,
+        "sold_seats": 146,
+        "available_seats": 1242,
+        "occupancy_pct": 10.0,
+        "revenue": 3893.5,
         "dates_count": 8,
         "hoyts_sessions": 10,
         "ec_sessions": 6,
-        "hoyts_revenue": 2048.5,
-        "ec_revenue": 813.5
+        "hoyts_revenue": 2583.0,
+        "ec_revenue": 1310.5
       },
       "dates": [
         {
@@ -36,20 +36,20 @@
           "overall_stats": {
             "sessions": 7,
             "total_seats": 731,
-            "sold_seats": 61,
-            "available_seats": 632,
-            "occupancy_pct": 8.3,
-            "revenue": 1520.0
+            "sold_seats": 87,
+            "available_seats": 606,
+            "occupancy_pct": 11.9,
+            "revenue": 2369.5
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
                 "sessions": 3,
                 "total_seats": 354,
-                "sold_seats": 33,
-                "available_seats": 291,
-                "occupancy_pct": 9.3,
-                "revenue": 800.5
+                "sold_seats": 47,
+                "available_seats": 277,
+                "occupancy_pct": 13.3,
+                "revenue": 1153.0
               },
               "locations": {
                 "1001": {
@@ -57,10 +57,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 123,
-                    "sold_seats": 0,
-                    "available_seats": 109,
-                    "occupancy_pct": 0.0,
-                    "revenue": 0.0
+                    "sold_seats": 4,
+                    "available_seats": 105,
+                    "occupancy_pct": 3.3,
+                    "revenue": 104.0
                   },
                   "sessions": [
                     {
@@ -68,11 +68,11 @@
                       "start_time": "2026-05-20T21:15:00",
                       "stats": {
                         "total_seats": 123,
-                        "sold_seats": 0,
+                        "sold_seats": 4,
                         "unavailable": 14,
-                        "available_seats": 109,
-                        "occupancy_pct": 0.0,
-                        "revenue": 0.0
+                        "available_seats": 105,
+                        "occupancy_pct": 3.7,
+                        "revenue": 104.0
                       },
                       "screen": "Cinema 3"
                     }
@@ -83,10 +83,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 154,
-                    "sold_seats": 5,
-                    "available_seats": 141,
-                    "occupancy_pct": 3.2,
-                    "revenue": 72.5
+                    "sold_seats": 6,
+                    "available_seats": 140,
+                    "occupancy_pct": 3.9,
+                    "revenue": 87.0
                   },
                   "sessions": [
                     {
@@ -94,11 +94,11 @@
                       "start_time": "2026-05-20T20:45:00",
                       "stats": {
                         "total_seats": 154,
-                        "sold_seats": 5,
+                        "sold_seats": 6,
                         "unavailable": 8,
-                        "available_seats": 141,
-                        "occupancy_pct": 3.4,
-                        "revenue": 72.5
+                        "available_seats": 140,
+                        "occupancy_pct": 4.1,
+                        "revenue": 87.0
                       },
                       "screen": "Cinema 4"
                     }
@@ -109,10 +109,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 77,
-                    "sold_seats": 28,
-                    "available_seats": 41,
-                    "occupancy_pct": 36.4,
-                    "revenue": 728.0
+                    "sold_seats": 37,
+                    "available_seats": 32,
+                    "occupancy_pct": 48.1,
+                    "revenue": 962.0
                   },
                   "sessions": [
                     {
@@ -120,11 +120,11 @@
                       "start_time": "2026-05-20T21:00:00",
                       "stats": {
                         "total_seats": 77,
-                        "sold_seats": 28,
+                        "sold_seats": 37,
                         "unavailable": 8,
-                        "available_seats": 41,
-                        "occupancy_pct": 40.6,
-                        "revenue": 728.0
+                        "available_seats": 32,
+                        "occupancy_pct": 53.6,
+                        "revenue": 962.0
                       },
                       "screen": "Cinema 02"
                     }
@@ -136,10 +136,10 @@
               "overall_stats": {
                 "sessions": 4,
                 "total_seats": 377,
-                "sold_seats": 28,
-                "available_seats": 341,
-                "occupancy_pct": 7.4,
-                "revenue": 719.5
+                "sold_seats": 40,
+                "available_seats": 329,
+                "occupancy_pct": 10.6,
+                "revenue": 1216.5
               },
               "locations": {
                 "502": {
@@ -147,10 +147,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 50,
-                    "sold_seats": 1,
-                    "available_seats": 47,
-                    "occupancy_pct": 2.0,
-                    "revenue": 67.0
+                    "sold_seats": 6,
+                    "available_seats": 42,
+                    "occupancy_pct": 12.0,
+                    "revenue": 402.0
                   },
                   "sessions": [
                     {
@@ -158,11 +158,11 @@
                       "start_time": "2026-05-20T20:30",
                       "stats": {
                         "total_seats": 50,
-                        "available_seats": 47,
-                        "sold_seats": 1,
+                        "available_seats": 42,
+                        "sold_seats": 6,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 2.0,
-                        "revenue": 67.0
+                        "occupancy_pct": 12.0,
+                        "revenue": 402.0
                       },
                       "screen_type": "Std",
                       "screen_name": "5",
@@ -176,10 +176,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 115,
-                    "sold_seats": 12,
-                    "available_seats": 101,
-                    "occupancy_pct": 10.4,
-                    "revenue": 276.0
+                    "sold_seats": 17,
+                    "available_seats": 96,
+                    "occupancy_pct": 14.8,
+                    "revenue": 391.0
                   },
                   "sessions": [
                     {
@@ -187,11 +187,11 @@
                       "start_time": "2026-05-20T20:45",
                       "stats": {
                         "total_seats": 115,
-                        "available_seats": 101,
-                        "sold_seats": 12,
+                        "available_seats": 96,
+                        "sold_seats": 17,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 10.4,
-                        "revenue": 276.0
+                        "occupancy_pct": 14.8,
+                        "revenue": 391.0
                       },
                       "screen_type": "Std",
                       "screen_name": "1",
@@ -234,10 +234,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 62,
-                    "sold_seats": 7,
-                    "available_seats": 53,
-                    "occupancy_pct": 11.3,
-                    "revenue": 164.5
+                    "sold_seats": 9,
+                    "available_seats": 51,
+                    "occupancy_pct": 14.5,
+                    "revenue": 211.5
                   },
                   "sessions": [
                     {
@@ -245,11 +245,11 @@
                       "start_time": "2026-05-20T20:45",
                       "stats": {
                         "total_seats": 62,
-                        "available_seats": 53,
-                        "sold_seats": 7,
+                        "available_seats": 51,
+                        "sold_seats": 9,
                         "wheelchair_seats": 2,
-                        "occupancy_pct": 11.3,
-                        "revenue": 164.5
+                        "occupancy_pct": 14.5,
+                        "revenue": 211.5
                       },
                       "screen_type": "Std",
                       "screen_name": "2",
@@ -329,20 +329,20 @@
           "overall_stats": {
             "sessions": 2,
             "total_seats": 186,
-            "sold_seats": 31,
-            "available_seats": 149,
-            "occupancy_pct": 16.7,
-            "revenue": 801.0
+            "sold_seats": 35,
+            "available_seats": 145,
+            "occupancy_pct": 18.8,
+            "revenue": 905.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
                 "sessions": 1,
                 "total_seats": 71,
-                "sold_seats": 29,
-                "available_seats": 38,
-                "occupancy_pct": 40.8,
-                "revenue": 754.0
+                "sold_seats": 33,
+                "available_seats": 34,
+                "occupancy_pct": 46.5,
+                "revenue": 858.0
               },
               "locations": {
                 "ORMCIN": {
@@ -350,10 +350,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 71,
-                    "sold_seats": 29,
-                    "available_seats": 38,
-                    "occupancy_pct": 40.8,
-                    "revenue": 754.0
+                    "sold_seats": 33,
+                    "available_seats": 34,
+                    "occupancy_pct": 46.5,
+                    "revenue": 858.0
                   },
                   "sessions": [
                     {
@@ -361,11 +361,11 @@
                       "start_time": "2026-05-22T20:30:00",
                       "stats": {
                         "total_seats": 71,
-                        "sold_seats": 29,
+                        "sold_seats": 33,
                         "unavailable": 4,
-                        "available_seats": 38,
-                        "occupancy_pct": 43.3,
-                        "revenue": 754.0
+                        "available_seats": 34,
+                        "occupancy_pct": 49.3,
+                        "revenue": 858.0
                       },
                       "screen": "Cinema 05"
                     }
@@ -421,20 +421,20 @@
           "overall_stats": {
             "sessions": 2,
             "total_seats": 186,
-            "sold_seats": 8,
-            "available_seats": 172,
-            "occupancy_pct": 4.3,
-            "revenue": 203.0
+            "sold_seats": 11,
+            "available_seats": 169,
+            "occupancy_pct": 5.9,
+            "revenue": 281.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
                 "sessions": 1,
                 "total_seats": 71,
-                "sold_seats": 6,
-                "available_seats": 61,
-                "occupancy_pct": 8.5,
-                "revenue": 156.0
+                "sold_seats": 9,
+                "available_seats": 58,
+                "occupancy_pct": 12.7,
+                "revenue": 234.0
               },
               "locations": {
                 "ORMCIN": {
@@ -442,10 +442,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 71,
-                    "sold_seats": 6,
-                    "available_seats": 61,
-                    "occupancy_pct": 8.5,
-                    "revenue": 156.0
+                    "sold_seats": 9,
+                    "available_seats": 58,
+                    "occupancy_pct": 12.7,
+                    "revenue": 234.0
                   },
                   "sessions": [
                     {
@@ -453,11 +453,11 @@
                       "start_time": "2026-05-23T20:15:00",
                       "stats": {
                         "total_seats": 71,
-                        "sold_seats": 6,
+                        "sold_seats": 9,
                         "unavailable": 4,
-                        "available_seats": 61,
-                        "occupancy_pct": 9.0,
-                        "revenue": 156.0
+                        "available_seats": 58,
+                        "occupancy_pct": 13.4,
+                        "revenue": 234.0
                       },
                       "screen": "Cinema 05"
                     }
