@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-24T18:02:43.668287+00:00",
+  "fetched_at": "2026-05-24T20:11:19.287933+00:00",
   "movies": [
     {
       "title": "Karuppu",
@@ -22,14 +22,14 @@
       "overall_stats": {
         "sessions": 3,
         "total_seats": 213,
-        "sold_seats": 16,
-        "available_seats": 185,
-        "occupancy_pct": 7.5,
-        "revenue": 416.0,
+        "sold_seats": 20,
+        "available_seats": 181,
+        "occupancy_pct": 9.4,
+        "revenue": 520.0,
         "dates_count": 3,
         "hoyts_sessions": 3,
         "ec_sessions": 0,
-        "hoyts_revenue": 416.0,
+        "hoyts_revenue": 520.0,
         "ec_revenue": 0
       },
       "dates": [
@@ -100,20 +100,20 @@
           "overall_stats": {
             "sessions": 1,
             "total_seats": 71,
-            "sold_seats": 16,
-            "available_seats": 51,
-            "occupancy_pct": 22.5,
-            "revenue": 416.0
+            "sold_seats": 20,
+            "available_seats": 47,
+            "occupancy_pct": 28.2,
+            "revenue": 520.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
                 "sessions": 1,
                 "total_seats": 71,
-                "sold_seats": 16,
-                "available_seats": 51,
-                "occupancy_pct": 22.5,
-                "revenue": 416.0
+                "sold_seats": 20,
+                "available_seats": 47,
+                "occupancy_pct": 28.2,
+                "revenue": 520.0
               },
               "locations": {
                 "ORMCIN": {
@@ -121,10 +121,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 71,
-                    "sold_seats": 16,
-                    "available_seats": 51,
-                    "occupancy_pct": 22.5,
-                    "revenue": 416.0
+                    "sold_seats": 20,
+                    "available_seats": 47,
+                    "occupancy_pct": 28.2,
+                    "revenue": 520.0
                   },
                   "sessions": [
                     {
@@ -132,11 +132,11 @@
                       "start_time": "2026-05-26T20:15:00",
                       "stats": {
                         "total_seats": 71,
-                        "sold_seats": 16,
+                        "sold_seats": 20,
                         "unavailable": 4,
-                        "available_seats": 51,
-                        "occupancy_pct": 23.9,
-                        "revenue": 416.0
+                        "available_seats": 47,
+                        "occupancy_pct": 29.9,
+                        "revenue": 520.0
                       },
                       "screen": "Cinema 05"
                     }
