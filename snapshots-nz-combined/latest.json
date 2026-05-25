@@ -1,17 +1,15 @@
 {
-  "fetched_at": "2026-05-25T21:16:40.516778+00:00",
+  "fetched_at": "2026-05-25T23:12:00.891566+00:00",
   "movies": [
     {
       "title": "Karuppu",
       "movie_info": {
         "title": "Karuppu",
         "poster_url": "https://imgix.hoyts.co.nz/mx/posters/nz/karuppu-7171fb8c.jpg",
-        "release_date": "",
-        "running_time_mins": 161,
-        "director": null,
-        "rating": {
-          "id": "R13"
-        },
+        "release_date": "2026-05-15",
+        "running_time_mins": 152,
+        "director": "RJ  Balaji",
+        "rating": "R13",
         "ec_ids": [
           "HO00018304"
         ],
@@ -20,17 +18,17 @@
         ]
       },
       "overall_stats": {
-        "sessions": 3,
-        "total_seats": 364,
-        "sold_seats": 36,
-        "available_seats": 315,
-        "occupancy_pct": 9.9,
-        "revenue": 936.0,
-        "dates_count": 3,
+        "sessions": 7,
+        "total_seats": 824,
+        "sold_seats": 47,
+        "available_seats": 756,
+        "occupancy_pct": 5.7,
+        "revenue": 1200.0,
+        "dates_count": 6,
         "hoyts_sessions": 3,
-        "ec_sessions": 0,
-        "hoyts_revenue": 936.0,
-        "ec_revenue": 0
+        "ec_sessions": 4,
+        "hoyts_revenue": 1014.0,
+        "ec_revenue": 186.0
       },
       "dates": [
         {
@@ -38,20 +36,20 @@
           "overall_stats": {
             "sessions": 1,
             "total_seats": 71,
-            "sold_seats": 36,
-            "available_seats": 31,
-            "occupancy_pct": 50.7,
-            "revenue": 936.0
+            "sold_seats": 39,
+            "available_seats": 28,
+            "occupancy_pct": 54.9,
+            "revenue": 1014.0
           },
           "platforms": {
             "hoyts": {
               "overall_stats": {
                 "sessions": 1,
                 "total_seats": 71,
-                "sold_seats": 36,
-                "available_seats": 31,
-                "occupancy_pct": 50.7,
-                "revenue": 936.0
+                "sold_seats": 39,
+                "available_seats": 28,
+                "occupancy_pct": 54.9,
+                "revenue": 1014.0
               },
               "locations": {
                 "ORMCIN": {
@@ -59,10 +57,10 @@
                   "overall_stats": {
                     "sessions": 1,
                     "total_seats": 71,
-                    "sold_seats": 36,
-                    "available_seats": 31,
-                    "occupancy_pct": 50.7,
-                    "revenue": 936.0
+                    "sold_seats": 39,
+                    "available_seats": 28,
+                    "occupancy_pct": 54.9,
+                    "revenue": 1014.0
                   },
                   "sessions": [
                     {
@@ -70,11 +68,11 @@
                       "start_time": "2026-05-26T20:15:00",
                       "stats": {
                         "total_seats": 71,
-                        "sold_seats": 36,
+                        "sold_seats": 39,
                         "unavailable": 4,
-                        "available_seats": 31,
-                        "occupancy_pct": 53.7,
-                        "revenue": 936.0
+                        "available_seats": 28,
+                        "occupancy_pct": 58.2,
+                        "revenue": 1014.0
                       },
                       "screen": "Cinema 05"
                     }
@@ -160,12 +158,12 @@
         {
           "date": "2026-05-28",
           "overall_stats": {
-            "sessions": 1,
-            "total_seats": 222,
-            "sold_seats": 0,
-            "available_seats": 217,
-            "occupancy_pct": 0.0,
-            "revenue": 0.0
+            "sessions": 2,
+            "total_seats": 337,
+            "sold_seats": 2,
+            "available_seats": 328,
+            "occupancy_pct": 0.6,
+            "revenue": 46.0
           },
           "platforms": {
             "hoyts": {
@@ -208,6 +206,60 @@
             },
             "event_cinemas": {
               "overall_stats": {
+                "sessions": 1,
+                "total_seats": 115,
+                "sold_seats": 2,
+                "available_seats": 111,
+                "occupancy_pct": 1.7,
+                "revenue": 46.0
+              },
+              "locations": {
+                "505": {
+                  "cinema_name": "Westgate (Auckland)",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 115,
+                    "sold_seats": 2,
+                    "available_seats": 111,
+                    "occupancy_pct": 1.7,
+                    "revenue": 46.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 2364935,
+                      "start_time": "2026-05-28T17:00",
+                      "stats": {
+                        "total_seats": 115,
+                        "available_seats": 111,
+                        "sold_seats": 2,
+                        "wheelchair_seats": 2,
+                        "occupancy_pct": 1.7,
+                        "revenue": 46.0
+                      },
+                      "screen_type": "Std",
+                      "screen_name": "3",
+                      "ho_code": "HO00018304",
+                      "adult_price": 23.0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-29",
+          "overall_stats": {
+            "sessions": 1,
+            "total_seats": 115,
+            "sold_seats": 2,
+            "available_seats": 111,
+            "occupancy_pct": 1.7,
+            "revenue": 47.0
+          },
+          "platforms": {
+            "hoyts": {
+              "overall_stats": {
                 "sessions": 0,
                 "total_seats": 0,
                 "sold_seats": 0,
@@ -216,6 +268,177 @@
                 "revenue": 0
               },
               "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "total_seats": 115,
+                "sold_seats": 2,
+                "available_seats": 111,
+                "occupancy_pct": 1.7,
+                "revenue": 47.0
+              },
+              "locations": {
+                "505": {
+                  "cinema_name": "Westgate (Auckland)",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 115,
+                    "sold_seats": 2,
+                    "available_seats": 111,
+                    "occupancy_pct": 1.7,
+                    "revenue": 47.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 2364904,
+                      "start_time": "2026-05-29T20:35",
+                      "stats": {
+                        "total_seats": 115,
+                        "available_seats": 111,
+                        "sold_seats": 2,
+                        "wheelchair_seats": 2,
+                        "occupancy_pct": 1.7,
+                        "revenue": 47.0
+                      },
+                      "screen_type": "Std",
+                      "screen_name": "3",
+                      "ho_code": "HO00018304",
+                      "adult_price": 23.5
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-30",
+          "overall_stats": {
+            "sessions": 1,
+            "total_seats": 115,
+            "sold_seats": 2,
+            "available_seats": 111,
+            "occupancy_pct": 1.7,
+            "revenue": 47.0
+          },
+          "platforms": {
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "total_seats": 115,
+                "sold_seats": 2,
+                "available_seats": 111,
+                "occupancy_pct": 1.7,
+                "revenue": 47.0
+              },
+              "locations": {
+                "505": {
+                  "cinema_name": "Westgate (Auckland)",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 115,
+                    "sold_seats": 2,
+                    "available_seats": 111,
+                    "occupancy_pct": 1.7,
+                    "revenue": 47.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 2364879,
+                      "start_time": "2026-05-30T20:35",
+                      "stats": {
+                        "total_seats": 115,
+                        "available_seats": 111,
+                        "sold_seats": 2,
+                        "wheelchair_seats": 2,
+                        "occupancy_pct": 1.7,
+                        "revenue": 47.0
+                      },
+                      "screen_type": "Std",
+                      "screen_name": "3",
+                      "ho_code": "HO00018304",
+                      "adult_price": 23.5
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-06-02",
+          "overall_stats": {
+            "sessions": 1,
+            "total_seats": 115,
+            "sold_seats": 2,
+            "available_seats": 111,
+            "occupancy_pct": 1.7,
+            "revenue": 46.0
+          },
+          "platforms": {
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "total_seats": 115,
+                "sold_seats": 2,
+                "available_seats": 111,
+                "occupancy_pct": 1.7,
+                "revenue": 46.0
+              },
+              "locations": {
+                "505": {
+                  "cinema_name": "Westgate (Auckland)",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "total_seats": 115,
+                    "sold_seats": 2,
+                    "available_seats": 111,
+                    "occupancy_pct": 1.7,
+                    "revenue": 46.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 2364957,
+                      "start_time": "2026-06-02T17:00",
+                      "stats": {
+                        "total_seats": 115,
+                        "available_seats": 111,
+                        "sold_seats": 2,
+                        "wheelchair_seats": 2,
+                        "occupancy_pct": 1.7,
+                        "revenue": 46.0
+                      },
+                      "screen_type": "Std",
+                      "screen_name": "3",
+                      "ho_code": "HO00018304",
+                      "adult_price": 23.0
+                    }
+                  ]
+                }
+              }
             }
           }
         }
