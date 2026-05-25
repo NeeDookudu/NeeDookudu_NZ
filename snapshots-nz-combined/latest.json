@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T10:21:54.083630+00:00",
+  "fetched_at": "2026-05-25T14:13:03.620642+00:00",
   "movies": [
     {
       "title": "Karuppu",
@@ -20,81 +20,19 @@
         ]
       },
       "overall_stats": {
-        "sessions": 4,
-        "total_seats": 435,
-        "sold_seats": 34,
-        "available_seats": 384,
-        "occupancy_pct": 7.8,
-        "revenue": 884.0,
-        "dates_count": 4,
-        "hoyts_sessions": 4,
+        "sessions": 3,
+        "total_seats": 364,
+        "sold_seats": 30,
+        "available_seats": 321,
+        "occupancy_pct": 8.2,
+        "revenue": 780.0,
+        "dates_count": 3,
+        "hoyts_sessions": 3,
         "ec_sessions": 0,
-        "hoyts_revenue": 884.0,
+        "hoyts_revenue": 780.0,
         "ec_revenue": 0
       },
       "dates": [
-        {
-          "date": "2026-05-25",
-          "overall_stats": {
-            "sessions": 1,
-            "total_seats": 71,
-            "sold_seats": 4,
-            "available_seats": 63,
-            "occupancy_pct": 5.6,
-            "revenue": 104.0
-          },
-          "platforms": {
-            "hoyts": {
-              "overall_stats": {
-                "sessions": 1,
-                "total_seats": 71,
-                "sold_seats": 4,
-                "available_seats": 63,
-                "occupancy_pct": 5.6,
-                "revenue": 104.0
-              },
-              "locations": {
-                "ORMCIN": {
-                  "cinema_name": "ORMCIN",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 71,
-                    "sold_seats": 4,
-                    "available_seats": 63,
-                    "occupancy_pct": 5.6,
-                    "revenue": 104.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 81108,
-                      "start_time": "2026-05-25T20:15:00",
-                      "stats": {
-                        "total_seats": 71,
-                        "sold_seats": 4,
-                        "unavailable": 4,
-                        "available_seats": 63,
-                        "occupancy_pct": 6.0,
-                        "revenue": 104.0
-                      },
-                      "screen": "Cinema 05"
-                    }
-                  ]
-                }
-              }
-            },
-            "event_cinemas": {
-              "overall_stats": {
-                "sessions": 0,
-                "total_seats": 0,
-                "sold_seats": 0,
-                "available_seats": 0,
-                "occupancy_pct": 0.0,
-                "revenue": 0
-              },
-              "locations": {}
-            }
-          }
-        },
         {
           "date": "2026-05-26",
           "overall_stats": {
