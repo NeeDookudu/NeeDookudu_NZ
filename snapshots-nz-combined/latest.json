@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-28T10:15:56.533289+00:00",
+  "fetched_at": "2026-05-28T14:40:51.075174+00:00",
   "movies": [
     {
       "title": "Karuppu",
       "movie_info": {
         "title": "Karuppu",
-        "poster_url": "https://imgix.hoyts.co.nz/mx/posters/nz/karuppu-7171fb8c.jpg",
+        "poster_url": "https://cdn.eventcinemas.co.nz/cdn/resources/movies/20945/images/largeposter.jpg",
         "release_date": "2026-05-15",
         "running_time_mins": 152,
         "director": "RJ  Balaji",
@@ -18,81 +18,19 @@
         ]
       },
       "overall_stats": {
-        "sessions": 4,
-        "total_seats": 567,
-        "sold_seats": 21,
-        "available_seats": 535,
-        "occupancy_pct": 3.7,
-        "revenue": 569.5,
-        "dates_count": 4,
-        "hoyts_sessions": 1,
+        "sessions": 3,
+        "total_seats": 345,
+        "sold_seats": 10,
+        "available_seats": 329,
+        "occupancy_pct": 2.9,
+        "revenue": 234.0,
+        "dates_count": 3,
+        "hoyts_sessions": 0,
         "ec_sessions": 3,
-        "hoyts_revenue": 335.5,
+        "hoyts_revenue": 0,
         "ec_revenue": 234.0
       },
       "dates": [
-        {
-          "date": "2026-05-28",
-          "overall_stats": {
-            "sessions": 1,
-            "total_seats": 222,
-            "sold_seats": 11,
-            "available_seats": 206,
-            "occupancy_pct": 5.0,
-            "revenue": 335.5
-          },
-          "platforms": {
-            "hoyts": {
-              "overall_stats": {
-                "sessions": 1,
-                "total_seats": 222,
-                "sold_seats": 11,
-                "available_seats": 206,
-                "occupancy_pct": 5.0,
-                "revenue": 335.5
-              },
-              "locations": {
-                "ORMCIN": {
-                  "cinema_name": "ORMCIN",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 222,
-                    "sold_seats": 11,
-                    "available_seats": 206,
-                    "occupancy_pct": 5.0,
-                    "revenue": 335.5
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 81314,
-                      "start_time": "2026-05-28T21:00:00",
-                      "stats": {
-                        "total_seats": 222,
-                        "sold_seats": 11,
-                        "unavailable": 5,
-                        "available_seats": 206,
-                        "occupancy_pct": 5.1,
-                        "revenue": 335.5
-                      },
-                      "screen": "Xtremescreen 01"
-                    }
-                  ]
-                }
-              }
-            },
-            "event_cinemas": {
-              "overall_stats": {
-                "sessions": 0,
-                "total_seats": 0,
-                "sold_seats": 0,
-                "available_seats": 0,
-                "occupancy_pct": 0.0,
-                "revenue": 0
-              },
-              "locations": {}
-            }
-          }
-        },
         {
           "date": "2026-05-29",
           "overall_stats": {
