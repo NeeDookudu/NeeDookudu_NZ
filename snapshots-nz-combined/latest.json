@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-05-30T07:43:25.579383+00:00",
+  "fetched_at": "2026-05-30T10:05:48.440951+00:00",
   "movies": [
     {
       "title": "Karuppu",
       "movie_info": {
         "title": "Karuppu",
-        "poster_url": "https://cdn.eventcinemas.co.nz/cdn/resources/movies/20945/images/largeposter.jpg",
-        "release_date": "2026-05-15",
-        "running_time_mins": 152,
-        "director": "RJ  Balaji",
-        "rating": "R13",
+        "poster_url": null,
+        "release_date": "",
+        "running_time_mins": null,
+        "director": null,
+        "rating": null,
         "ec_ids": [
           "HO00018304"
         ],
@@ -18,85 +18,19 @@
         ]
       },
       "overall_stats": {
-        "sessions": 1,
-        "total_seats": 115,
-        "sold_seats": 26,
-        "available_seats": 87,
-        "occupancy_pct": 22.6,
-        "revenue": 611.0,
-        "dates_count": 1,
+        "sessions": 0,
+        "total_seats": 0,
+        "sold_seats": 0,
+        "available_seats": 0,
+        "occupancy_pct": 0.0,
+        "revenue": 0,
+        "dates_count": 0,
         "hoyts_sessions": 0,
-        "ec_sessions": 1,
+        "ec_sessions": 0,
         "hoyts_revenue": 0,
-        "ec_revenue": 611.0
+        "ec_revenue": 0
       },
-      "dates": [
-        {
-          "date": "2026-05-30",
-          "overall_stats": {
-            "sessions": 1,
-            "total_seats": 115,
-            "sold_seats": 26,
-            "available_seats": 87,
-            "occupancy_pct": 22.6,
-            "revenue": 611.0
-          },
-          "platforms": {
-            "hoyts": {
-              "overall_stats": {
-                "sessions": 0,
-                "total_seats": 0,
-                "sold_seats": 0,
-                "available_seats": 0,
-                "occupancy_pct": 0.0,
-                "revenue": 0
-              },
-              "locations": {}
-            },
-            "event_cinemas": {
-              "overall_stats": {
-                "sessions": 1,
-                "total_seats": 115,
-                "sold_seats": 26,
-                "available_seats": 87,
-                "occupancy_pct": 22.6,
-                "revenue": 611.0
-              },
-              "locations": {
-                "505": {
-                  "cinema_name": "Westgate (Auckland)",
-                  "overall_stats": {
-                    "sessions": 1,
-                    "total_seats": 115,
-                    "sold_seats": 26,
-                    "available_seats": 87,
-                    "occupancy_pct": 22.6,
-                    "revenue": 611.0
-                  },
-                  "sessions": [
-                    {
-                      "session_id": 2364879,
-                      "start_time": "2026-05-30T20:35",
-                      "stats": {
-                        "total_seats": 115,
-                        "available_seats": 87,
-                        "sold_seats": 26,
-                        "wheelchair_seats": 2,
-                        "occupancy_pct": 22.6,
-                        "revenue": 611.0
-                      },
-                      "screen_type": "Std",
-                      "screen_name": "3",
-                      "ho_code": "HO00018304",
-                      "adult_price": 23.5
-                    }
-                  ]
-                }
-              }
-            }
-          }
-        }
-      ]
+      "dates": []
     }
   ]
 }
